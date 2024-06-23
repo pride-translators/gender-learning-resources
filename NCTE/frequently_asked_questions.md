@@ -83,29 +83,29 @@ _(참고: 원문의 출처인 NCTE는 영어 형용사 "male"과 "female", 그�
 젠더 전환은 트랜스젠더들이 건강하고 만족스러운 삶을 영위하는데 큰 도움이 됩니다. 전환을 "완료"하기 위해 하는 일이 정해져 있진 않고, 이는 각각 개인에게 무엇이 맞냐에 따라 다를 수도 있습니다. 모든 트랜스젠더들은 법적 또는 의료적 단계를 밟았는지에 관계 없이 동일하게 존엄성과 존중을 받을 권리가 있습니다.
 
 
-## What are some of the official records transgender people may change when they're transitioning?
-Some transgender people make or want to make legal changes as part of their transition, like by changing their name or updating the gender marker on their identity documents.
+## 트랜스젠더들이 젠더 전환 과정을 겪을 때 어떤 공식 문서들을 바꾸는 편인가요?
+일부 트랜스젠더들은 전환 과정의 일환으로 법적인 문서를 변경하길 원하거나 시도하게 됩니다. 예를 들어, 개명을 하거나 공식 문서 등에서 성별 표시를 변경하는 것 등이 있습니다.
 
-Not all transgender people need or want to change their identity documents, but for many, it's a critical step in their transition. For many transgender people, not having identity documents like driver's licenses or passports that match their gender means that they might not be able to do things that require an ID, like getting a job, enrolling in school, opening a bank account, or traveling. Some transgender people who use an ID that doesn't match their gender or their presentation face harassment, humiliation, and even violence.
+모든 트랜스젠더들이 신분증을 변경해야 하거나 원하지는 않지만, 많은 트랜스젠더에게 있어서 이러한 변화가 전환 과정에서 중요한 단계로 여겨집니다. 많은 트랜스젠더들이 신분증이 요구되는 일을 해야할 때 운전 면허증이나 여권과 같은 공식 문서에 일치하지 않는 젠더가 표시돼 있어서 여러 문제들을 겪게 됩니다. 이러한 일의 예시로는 구인, 학교 지원, 은행 계좌 개설, 여행 등이 있습니다. 문서상 성별과 실제 모습과 일치하지 않는 일부 트랜스젠더들은 괴롭힘, 굴욕, 심지어 폭력에 직면할 수도 있게 됩니다.
 
-Transgender people may need to change a number of documents in order to live according to their gender identity, such as their:
+트랜스젠더들은 자신의 젠더 정체성에 따라 살기 위해 여러 문서를 변경해야 할수도 있습니다. 이러한 문서의 예시로는 다음과 같은 것들이 있습니다.
 
-- Driver’s license
-- Social Security card
-- Passport
-- Bank accounts and records
-- Credit cards
-- Paychecks and other job-related documents
-- Leases
-- Medical records
-- Birth certificate
-- Academic records
+- 운전 면허증
+- 주민등록증
+- 여권
+- 은행 계좌 및 기록
+- 신용카드
+- 급여명세서 및 기타 직장 관련 문서
+- 임대 예약서
+- 의료 기록
+- 출생 증명서
+- 학업 증명서
 
-It's important to know that not all transgender people be able to make the changes they need to their IDs and other official documents. Unfortunately, these changes are often expensive, burdensome, and complicated, putting them out of reach for many people. For example, some states still require proof of surgery or a court order to change a gender marker. In many states, the process can be time-consuming and involve many steps, or cost hundreds of dollars. As a result, only one-fifth (21%) of transgender people who have transitioned have been able to update all of their IDs.
+신분증 및 기타 공식 문서를 변경하는 절차를 완료하지 못하는 트랜스젠더들도 많다는 점을 알아두는 것이 중요합니다. 안타깝게도, 이러한 변경 절차는 비용이 많이 들고 부담스러울 뿐 아니라 복잡하기 때문에 많은 사람들이 완료할수 없기도 합니다. 예를 들어, 일부 미국 주에서는 성별 표시를 변경하려면 수술 증명서나 법원의 명령을 요구하기도 합니다. 많은 미국의 주에서 이런 과정이 많은 시간을 필요로 할 뿐 아니라 수백 달러의 비용이 들게 될수도 있습니다. 그 결과, 전환 과정을 거치는 트랜스젠더 중 단 3분의 1 (21%) 만이 신분증을 변경할 수 있는 것으로 보입니다.
 
-NCTE works to modernize all of these outdated requirements. States are increasingly adopting more accessible and straightforward policies for changing one's name and gender marker.
+NCTE는 이러한 시대에 뛰덜어진 요구 사항들을 현대화하기 위한 노력을 하고 있습니다. 점점 더 많은 주들도 이름과 성별 표시를 변경하기 위한 더 쉽고 간단한 정책들을 채택하고 있는 추세입니다.
 
-To find out the requirements for updating a driver’s license or birth certificate in your state or territory, as well as get information on changing federal IDs and records, visit NCTE’s [ID Documents Center](https://transequality.org/documents).
+NCTE가 작성한 [ID Documents Center](https://transequality.org/documents) 문서를 확인해서 거주하는 미국 주나 지역에서 운전 면허증이나 출생 증명서를 변경하는데 어떤 요구 사항이 필요한지 알아보세요.
 
 
 ## What medical treatments do some transgender people seek when transitioning?
