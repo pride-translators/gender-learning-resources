@@ -134,21 +134,21 @@ NCTE가 작성한 [ID Documents Center](https://transequality.org/documents) 문
 트랜스젠더인 것 자체는 질병이 아니지만, 많은 트랜스젠더들이 광범위한 차별과 오명 때문에 신체적 및 정신적 건강 문제를 겪게 됩니다. 많은 트랜스젠더들이 자신들의 깊이 있는 정체성이 잘못되었거나 괴이하다고 말하는 사회에서 살아가고 있습니다. 어떤 트랜스젠더들은 가족, 직업, 집, 지원을 잃기도 하고 괴롭힘이나 폭력을 경험하기도 합니다. 트랜스젠더인 아이들은 가정, 학교, 또는 사회에서 거부당하거나 심지어는 정서적 또는 신체적 학대를 경험하기도 합니다. 이러한 경험은 누구에게나 어려운 경험이 될수 있고, 어떤 사람들에게는 이런 경험이 불안 장애, 우울증 등과 같은 다른 정신 건강 문제로 이어지게 되기도 합니다. 하지만 이런 상태들은 트랜스젠더 정체성 때문이 아닙니다. 이런 정신 건강 문제는 트랜스젠더들이 직면해야 하는 관용 부족 등의 결과로 볼수 있습니다. 이런 트랜스젠더들이 사회에서 받아들여지고 사람으로써 가치 있는 존재로 여겨져야 트랜스젠더인 사람들이 진정으로 건강하고 충만한 삶을 살수 있게 됩니다.
 
 
-## Why is transgender equality important?
-Transgender people should be treated with the same dignity and respect as anyone else and be able to live, and be respected, according to their gender identity. But transgender people often face serious discrimination and mistreatment at work, school, and in their families and communities.
+## 왜 트랜스젠더 평등이 중요한가요?
+트랜스젠더들은 다른 누구와 마찬가지로 존엄성을 존중 받으며 살수 있어야 하고, 자신의 젠더 정체성에 따라 살수 있도록 존중받아야 합니다. 하지만 트랜스젠더들은 직장, 학교, 가정, 사회에서 심각한 차별과 부당한 대우를 종종 겪게 됩니다.
 
-For example, transgender people are more likely to:
+예를 들어, 트랜스젠더들은 다음과 같은 상황에 더 많이 직면할수도 있습니다.
 
-- Be fired or denied a job
-- Face harassment and bullying at school
-- Become homeless or live in extreme poverty
-- Be evicted or denied housing or access to a shelter
-- Be denied access to critical medical care
-- Be incarcerated or targeted by law enforcement
-- Face abuse and violence
+- 해고되거나 채용되지 않음
+- 학교에서 괴롭힘이나 폭력을 당함
+- 노숙자가 되거나 극도의 빈곤을 겪게 됨
+- 퇴거당하거나 노숙자 쉼터에 접근하지 못함
+- 중요하게 필요한 의료 서비스를 받지 못하고 거부당함
+- 구금되거나 법 진행 기관의 표적이 됨
+- 학대와 폭력을 당함
 
-For statistics about these types of discrimination, go to the National Transgender Discrimination Survey page.
+이러한 종류의 차별에 대한 통계를 확인하고 싶다면 National Transgender Discrimination Survey 페이지를 확인해주세요.
 
-Living without fear of discrimination and violence and being supported and affirmed in being who they are is critical for allowing transgender people to live healthy, safe, and fulfilling lives. In recent years, laws, policies and attitudes around the country have changed significantly, allowing more transgender people than ever to live fuller, safer, and healthier lives.
+차별과 폭력의 두려움 없이 살고, 자신의 정체성에 대한 지원과 인정을 받는 것은 트랜스젠더들이 건강하고 안전하며 만족스러운 삶을 사는데 매우 중요합니다. 최근 몇 년간, 미국 전국적으로 법률, 정책, 그리고 이러한 사람들을 대하는 방식이 크게 변화하면서 이전보다 더 많은 트랜스젠더들이 더 완전하고 건강한 삶을 살 수 있게 됐습니다.
 
-The transgender movement is part of a long tradition of social justice movements of people working together to claim their civil rights and better opportunities in this country. These challenges are connected. Discrimination that transgender people of color face is compounded by racism, and lower-income transgender people face economic challenges and classism. NCTE believes that progress towards transgender equality requires a social justice approach that fights all forms of discrimination.
+트랜스젠더 운동은 이 나라 (미국) 에서 다른 사람들이 시민 권리를 보장받을수 있는 더 나은 환경을 만들고자 하는 전통적인 사회 정의 운동의 일환입니다. 이러한 문제들은 서로 복잡하게 얽혀있으며, 유색 인종인 트랜스젠더들이 겪는 차별은 인종 차별, 계급주의와 연결돼 있습니다. NCTE는 트랜스젠더 평등을 향한 진전이 모든 형태의 차별과 맞서는 사회 정의 접근 방식을 필요로 한다고 믿고 있습니다.
