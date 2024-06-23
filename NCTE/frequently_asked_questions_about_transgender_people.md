@@ -108,18 +108,18 @@ NCTE는 이러한 시대에 뛰덜어진 요구 사항들을 현대화하기 위
 NCTE가 작성한 [ID Documents Center](https://transequality.org/documents) 문서를 확인해서 거주하는 미국 주나 지역에서 운전 면허증이나 출생 증명서를 변경하는데 어떤 요구 사항이 필요한지 알아보세요.
 
 
-## What medical treatments do some transgender people seek when transitioning?
-Some, but not all, transgender people undergo medical treatments to make their bodies more congruent with their gender identity and help them live healthier lives.
+## 일부 트랜스젠더들이 전환 과정을 거칠 때 어떤 의학적 치료를 받기를 원하나요?
+모든 트랜스젠더는 아니지만 일부 트랜스젠더들은 자신들의 신체를 본인의 젠더 정체성과 일치시키고 더 건강한 삶을 살기 위해 의학적 치료를 받게 됩니다.
 
-While transition-related care is critical and even life-saving for many transgender people, not everyone needs medical care to transition or live a fulfilling life.
+전환 관련 치료는 많은 트랜스젠더들에게 필수적이고 심지어는 생명을 구하는 역할을 하지만, 모두가 만족스러운 삶을 살기 위해 의학적 치료를 필요로 하지는 않습니다.
 
-Different transgender people may need different types of transition-related care. People should make decisions about their care based on their individual needs. Medical procedures can include:
+트랜스젠더마다 전환에 필요한 치료가 다를 수도 있습니다. 사람들이 자신의 개별적인 필요에 따라 치료에 관한 결정을 스스로 내리는 것이 좋습니다. 이러한 치료에는 다음과 같은 것들이 있습니다.
 
-- hair growth or removal treatments
-- hormone therapy
-- various surgeries to make one's face, chest, and anatomy more in line with one's gender identity
+- 체모 성장 또는 제거 치료
+- 호르몬 치료
+- 얼굴, 가슴 등의 해부학적 신체 구조를 젠더 정체성과 더 일치시키는 여러 수술들
 
-While not everyone needs transition-related medical treatments, there is an overwhelming consensus in the medical community that they are medically necessary for many transgender people and should be covered by private and public insurance. Every major medical organization in the United States has affirmed that transition-related medical care is safe and effective, and that everyone who needs it should be able to access it. Unfortunately, this critical care is often denied by insurance companies, often in spite of state and federal laws.
+모두가 전환을 하는데 의학적 치료가 필요로 하지는 않지만, 의료계에서 많은 트랜스젠더들에게 이러한 치료가 의학적으로 필요하며 민간 및 공공 보험으로 보장되어야 한다는 의견이 합치되고 있습니다. 미국의 모든 주요 의료 기관들은 전환과 관련된 의학적 치료가 안전하고 효과적이며, 이런 치료가 필요한 모든 사람들에게 더 접근하기 쉬워져야 한다고 확실시하고 있습니다. 불행스럽게도, 종종 주 및 연방 법률을 위반하는 내용임에도 이러한 중요한 치료가 종종 보험 회사에 의해 거부되곤 합니다.
 
 
 ## 젠더 불쾌감이 뭔가요?
