@@ -5,16 +5,16 @@
 
 APA Style guide에 따르면, "트랜스섹슈얼" 이라는 용어는 거의 시대에 뒤떨어졌지만 일부 사람들은 이 용어를 통해 본인들을 정체화합니다. 그러므로 이 용어를 사용한다고 주장하는 개인에게만 사용 하는 것이 좋습니다. 이 문서 전반에 걸쳐 "트랜스섹슈얼"이라는 용어가 여러 번 사용될 예정이지만, APA의 성적 지향 및 젠더 다양성 위원회는 몇 다른 용어들과 함께 이 용어의 사용에 대해 시스템상의 검토를 진행하고 있습니다. 검토가 진행되고 있는 동안 트랜스젠더 및 성별 비순응자에 대한 더 최신 언어 사용을 확인하고 싶다면 [트랜스젠더 및 젠더 비순응자 심리적 실천을 위한 가이드라인 (PDF, 472KB)](https://www.apa.org/practice/guidelines/transgender.pdf)을 확인해보세요.
 
-[Transgender](https://www.apa.org/pi/lgbt/programs/transgender "index") is an umbrella term for persons whose gender identity, gender expression or behavior does not conform to that typically associated with the sex to which they were assigned at birth. [Gender identity](https://www.apa.org/pubs/reports/gender-identity "gender-identity") refers to a person’s internal sense of being male, female or something else; gender expression refers to the way a person communicates gender identity to others through behavior, clothing, hairstyles, voice or body characteristics. “Trans” is sometimes used as shorthand for “transgender.” While transgender is generally a good term to use, not everyone whose appearance or behavior is gender-nonconforming will identify as a transgender person. The ways that transgender people are talked about in popular culture, academia and science are constantly changing, particularly as individuals’ awareness, knowledge and openness about transgender people and their experiences grow.
+[트랜스젠더](https://www.apa.org/pi/lgbt/programs/transgender "index")는 자신의 젠더 정체성, 젠더 표현 혹은 행동이 출생시 지정된 성별에 순응하지 않는 사람들을 나타내는 포괄적인 용어입니다. [젠더 정체성](https://www.apa.org/pubs/reports/gender-identity "gender-identity") 은 사람들이 스스로를 내면에서 남자, 여자 혹은 그 외의 젠더라고 느끼는 감각을 말하고, 젠더 표현은 행동, 옷차림, 헤어스타일, 목소리 혹은 신체적 특징을 통해 젠더 정체성을 다른 사람들에게 전달하는 방식을 의미합니다. 영어 약어 "trans"가 "transgender"를 짧게 쓸 때 종종 사용됩니다. 트랜스젠더라는 용어는 일반적으로 적절한 용어이지만, 외모나 행동이 젠더에 순응하지 않는 모든 사람들이 스스로를 트랜스젠더라고 정체화하지는 않습니다. 대중 문화, 학계 및 과학에서 트랜스젠더에 대해 이야기되는 방식이 끊임없이 변화하고 있습니다. 이는 개인 각각의 조금씩 더 잘 알게 되고 트랜스젠더 경험에 대한 개방성이 증가했기 때문입니다.
 
-## What is the difference between sex and gender?
-Sex is assigned at birth, refers to one’s biological status as either male or female, and is associated primarily with physical attributes such as chromosomes, hormone prevalence, and external and internal anatomy. Gender refers to the socially constructed roles, behaviors, activities, and attributes that a given society considers appropriate for boys and men or girls and women. These influence the ways that people act, interact, and feel about themselves. While aspects of biological sex are similar across different cultures, aspects of gender may differ.
+## 성별과 젠더의 차이가 뭔가요?
+성별은 출생 시 지정되며 남성 또는 여성으로서의 생물학적 상태를 의미합니다. 이 상태는 주로 염색체, 호르몬 분포, 외부 및 내부 해부학과 같은 신체적 속성과 주로 연결됩니다. 젠더는 소년, 남자 혹은 소녀, 여자에게 적절하다고 여겨지는 사회적으로 생성된 역할, 행동, 활동, 속성을 의미합니다. 이러한 것들은 사람들이 행동하고 상호작용하며 자신에 대해 느끼는 방식에 영향을 미칩니다. 생물학적 성별의 관점은 다양한 문화에서 유사하지만, 젠더의 관점은 다를 수도 있습니다.
 
-Various conditions that lead to atypical development of physical sex characteristics are collectively referred to as intersex conditions.
+신체적 성 특징의 비정상적 발달을 초래하는 다양한 상태는 집합적으로 인터섹스 상태라고 부릅니다.
 
 
-## Have transgender people always existed?
-Transgender persons have been documented in many indigenous, Western, and Eastern cultures and societies from antiquity until the present day. However, the meaning of gender nonconformity may vary from culture to culture.
+## 트랜스젠더인 사람들이 항상 존재해왔나요?
+트랜스젠더들은 다양한 원주민 문화, 서양 문화, 동양 문화와 사회에서 고대부터 현재까지 쭉 존재해 왔습니다. 그러나 성 비순응의 의미는 문화마다 다를 수도 있습니다.
 
 
 ## What are some categories or types of transgender people?
