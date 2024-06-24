@@ -49,12 +49,12 @@ _젠더 퀴어 (genderqueer)_ 는 스스로의 정체성이 "남자"과 "여자"
 부모로서 자녀가 젠더 불순응자로 보인다면 여러 가지 이유로 걱정이 될 수 있습니다. 어떤 아이들은 자신에게 출생 시 주어진 성별이나 그 성별에 예상되는 젠더 역할에 대해 큰 불편함을 느낄 수도 있습니다. 부모로서 지나가는 일 정도로 생각한 일이 가볍게 지나가지 않으면서 크게 걱정이 될수도 있습니다. 성별 불순응자를 자녀로 둔 부모들은 학교나 다른 기관들과 같이 논의하여 자녀들의 필요를 충족시키고 자녀들의 안전을 보장해야 할수도 있습니다. 아이들의 젠더와 관련된 문제와 익숙한 정신 건강 및 의학 전문가와 상의하여 이러한 문제를 어떻게 처리해야 하는지 결정하면 도움이 많이 됩니다. 하지만 아이들에게 어떤 성별답게 행동하라고 강요하는 것은 도움이 되지 않습니다. 다른 젠더 불순응자인 자녀가 있는 부모에게 도움을 요청하는 것도 도움이 될수 있습니다.
 
 
-## How do transgender individuals make a gender transition?
-Transitioning from one gender to another is a complex process and may involve transition to a gender that is neither traditionally male nor female. People who transition often start by expressing their preferred gender in situations where they feel safe. They typically work up to living full time as members of their preferred gender by making many changes a little at a time. While there is no “right” way to transition genders, there are some common social changes transgender people experience that may involve one or more of the following: adopting the appearance of the desired sex through changes in clothing and grooming, adopting a new name, changing sex designation on identity documents (if possible), using hormone therapy treatment, and/or undergoing medical procedures that modify their body to conform with their gender identity.
+## 트랜스젠더들은 어떻게 젠더 전환을 하나요?
+한 젠더에서 다른 젠더로 전환하는 것은 복잡한 과정이며, 전통적으로 남자나 여자로 분류되지 않는 젠더로 전환하는 경우도 있습니다. 전환을 하는 사람들은 종종 자신이 안전하게 느끼는 공간이나 상황에서 선호하는 젠더를 표현하는 것부터 시작하게 됩니다. 그 다음에는 선호하는 젠더로 살기 위해 조금씩 변화를 계속 주게 됩니다. 젠더 전환에는 "올바른" 방식이 존재하지 않지만, 트랜스젠더들이 흔히 경험하게 되는 사회적인 변화가 있습니다. 이러한 예시에는 원하는 젠더의 옷차림을 하거나 외모를 가꾸는 것, 새로운 이름을 가지는 것, (가능한 경우에는) 신분증의 성별 표시 변경하기, 호르몬 치료 받기, 젠더 정체성에 따르도록 신체를 변화시키는 의료 수술 받기가 있습니다.
 
-Every transgender person’s process or transition differs. Because of this, many factors may determine how the individual wishes to live and express their gender identity. Finding a qualified mental health professional who is experienced in providing affirmative care for transgender people is an important first step. A qualified professional can provide guidance and referrals to other helping professionals. Connecting with other transgender people through peer support groups and transgender community organizations is also helpful.
+트랜스젠더마다 전환 과정이 다 다릅니다. 이러한 이유 때문에 개인이 젠더 정체성을 어떻게 표현하고 살아가길 원하는지 영향을 끼치는 요소는 사람마다 다르고 다양할 수 있습니다. 트랜스젠더에게 확일화 치료를 제공하는데 경험이 있고 자격이 있는 정신 건강 전문가를 찾는 것이 첫번째 중요한 단계입니다. 이러한 유자격 전문가들은 다른 전문가를 추천해줄수 있을 뿐 아니라 여러 방면에서 도움이 많이 됩니다. 동료 지원 (peer support) 그룹을 통해 다른 트랜스젠더들과 알게 되는것도 좋은 방법이고, 트랜스젠더 단체도 도움이 됩니다.
 
-The World Professional Association for Transgender Health (WPATH), a professional organization devoted to the treatment of transgender people, publishes _The Standards of Care for Gender Identity Disorders_, which offers recommendations for the provision of gender affirmation procedures and services.
+트랜스젠더 치료에 집중하는 세계 트랜스젠더 건강 전문 협회 (The World Professional Association for Transgender Health, WPATH)는 젠더 확일화 수술과 서비스 제공을 추천해주는 _젠더 정체성 장애 관리 기준 (The Standards of Care for Gender Identity Disorders)_ 을 출판하고 있습니다.
 
 
 ## Is being transgender a mental disorder?
