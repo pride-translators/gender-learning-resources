@@ -73,19 +73,19 @@ According to the study, while discrimination is pervasive for the majority of tr
 Many transgender people are the targets of [hate crimes](https://www.apa.org/topics/racism-bias-discrimination). They are also the victims of subtle discrimination—which includes everything from glances or glares of disapproval or discomfort to invasive questions about their body parts.
 
 
-## How can I be supportive of transgender family members, friends, or significant others?
-- Educate yourself about transgender issues by reading books, attending conferences, and consulting with transgender experts. Be aware of your attitudes concerning people with gender-nonconforming appearance or behavior.
-- Know that transgender people have membership in various sociocultural identity groups (e.g., race, social class, religion, age, disability, etc.) and there is not one universal way to look or be transgender.
-- Use names and pronouns that are appropriate to the person’s gender presentation and identity; if in doubt, ask.
-- Don’t make assumptions about transgender people’s sexual orientation, desire for hormonal or medical treatment, or other aspects of their identity or transition plans. If you have a reason to know (e.g., you are a physician conducting a necessary physical exam or you are a person who is interested in dating someone that you’ve learned is transgender), ask.
-- Don’t confuse gender nonconformity with being transgender. Not all people who appear androgynous or gender nonconforming identify as transgender or desire gender affirmation treatment.
-- Keep the lines of communication open with the transgender person in your life.
-- Get support in processing your own reactions. It can take some time to adjust to seeing someone you know well transitioning. Having someone close to you transition will be an adjustment and can be challenging, especially for partners, parents, and children.
-- Seek support in dealing with your feelings. You are not alone. Mental health professionals and support groups for family, friends, and significant others of transgender people can be useful resources.
-- Advocate for transgender rights, including social and economic justice and appropriate psychological care.Familiarize yourself with the local and state or provincial laws that protect transgender people from discrimination.
+## 트랜스젠더인 가족 구성원, 친구, 소중한 사람들을 어떻게 지지해주고 도와줄수 있나요?
+- 책, 컨퍼런스, 트랜스젠더 전문가와의 상담 등을 통해 트랜스젠더에 대해 더 배워보세요. 젠더 비순응적인 외모나 행동에 대한 자신의 관점에 대해 조심스럽게 접근해볼 수도 있습니다.
+- 트랜스젠더들도 인종, 사회 계층, 종교, 연령, 장애 등 다양한 사회 문화적 정체성 그룹에 속할수 있고, 트랜스젠더가 되거나 트랜스젠더의 모습이 다양하다는 내용을 알고 있으면 좋습니다.
+- 다른 사람이 알려주는 젠더와 정체성에 알맞은 이름과 대명사를 사용해주세요. 확실하지 않다면 물어보는 것도 좋습니다.
+- 트랜스젠더인 사람들의 성적 지향, 호르몬 및 의료적 치료에 대한 의사 여부, 혹은 정체성이나 젠더 전환 계획과 관련된 다른 것들에 관해 스스로 추측하려고 하지 마세요. 알아야 할 이유가 있다면 그냥 물어보세요. (이러한 이유의 예시로는 의료적으로 검사를 해야 하는 의사, 트랜스젠더인지 사람과 데이트를 하고자 하는 상황 등이 있습니다.)
+- 젠더 비순응과 트랜스젠더에 대해 혼동하지 말아주세요. 남성과 여성의 특징을 둘 다 띄거나 젠더 비순응인 정체성을 가지고 있는 모든 사람이 트랜스젠더라고 정체화하거나 젠더 확일화 치료를 받지는 않습니다.
+- 삶에서 보게 되는 트랜스젠더들과 열린 마인드로 대화를 해보세요.
+- 트랜스젠더와 이야기할때 어떻게 반응할지에 대해 논의해보는 등 받아볼수 있는 도움을 받아보세요. 잘 아는 가까운 사람이 젠더 전환을 할때 이러한 모습에 적응하는 시간이 필요할 수도 있습니다. 가까운 사람이 전환 과정을 거칠 때, 여러 가지 시행착오가 필요할 수도 있고 이러한 과정이 복잡할 수도 있습니다. 특히 파트너, 부모, 자녀가 전환 과정을 거친다면 더 복잡하고 어렵게 느껴질 수 있습니다.
+- 감정을 처리하는데 필요한 도움을 받아보세요. 당신은 혼자가 아닙니다. 정신 건강 전문가나 가족이나 친구, 소중한 사람들을 도와주는 지원 그룹이 유용한 학습 자료가 될수도 있습니다.
+- 트랜스젠더 인권을 지지해주세요. 이러한 지지에는 사회 및 경제 정의와 적절한 심리적 치료가 포함됩니다. 트랜스젠더들을 차별로부터 보호하는 지역, 지방, 주의 법에 대해 배워볼수도 있습니다.
 
 
-## Where can I find more information about transgender health, advocacy and human rights?
+## 트랜스젠더 건강, 보호 활동, 인권에 대한 정보를 어디에서 찾아야 할까요?
 - American Psychological Association  
     [Office on Sexual Orientation and Gender Diversity](https://www.apa.org/pi/lgbt "index")  
     [Programs and Projects](https://www.apa.org/pi/lgbt/programs/transgender "index-new")  
@@ -142,7 +142,7 @@ Many transgender people are the targets of [hate crimes](https://www.apa.org/top
     [Email](mailto:wpath@wpath.org)
 
 
-## References
+## 참조
 - American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.). Washington, D.C.: Author.
 - American Psychological Association. (2008). [_Answers to questions: For a better understanding of sexual orientation and homosexuality_](https://www.apa.org/topics/lgbtq/orientation "Answers to Your Questions For a Better Understanding of Sexual Orientation & Homosexuality")_._ Washington, D.C.: Author.
 - Coleman, E., Bockting, W., Botzer, M., Cohen-Kettenis, P., DeCuypere, G., Feldman, J., ... Zucker, K. (2012). Standards of care for the health of transsexual, transgender, and gender nonconforming people (7th version). _International Journal of Transgenderism, 13_, 165-232. doi:10.1080/15532739.2011.700873
