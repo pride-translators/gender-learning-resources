@@ -21,24 +21,24 @@
 **논바이너리와 인터섹스는 동일한 개념이 아닙니다.** 인터섹스인 사람들은 전형적으로 남성과 여성의 정의에 맞지 않는 해부학적 구조나 유전자를 가지고 있습니다. 어떤 사람들은 논바이너리로 정체화할수도 있지만, 대부분의 인터섹스들은 남자나 여자로 정체화하게 됩니다. 논바이너리들은 보통은 인터섹스가 아닙니다. 논바이너리들은 보통 남성이나 여성의 전형적인 정의에 맞는 신체를 가지고 태어나지만, 내면에서 느껴지는 젠더 정체성이 남자나 여자가 아닌 다른 무언가이곤 합니다.
 
 
-## How to Be Respectful and Supportive of Nonbinary People
-It isn’t as hard as you might think to be supportive and respectful of nonbinary people, even if you have just started to learn about them.
+## 어떻게 논바이너리들을 존중하고 지지해줄수 있나요?
+논바이너리들을 존중하고 지지해주는 것은 생각처럼 어렵진 않습니다. 논바이너리에 대해 처음 알아보고 있더라도 그렇게 어렵지 않으니 한번 살펴보도록 합시다.
 
-**You don’t have to understand what it means for someone to be nonbinary to respect them.** Some people haven’t heard a lot about nonbinary genders or have trouble understanding them, and that’s okay. Identities that some people don’t understand still deserve respect.
+**존중하는데 논바이너리에 대해 정확하게 이해할 필요는 없습니다.** 어떤 사람들은 논바이너리에 대해 들어보지 못했거나 이해하는데 어려움을 겪을 수도 있습니다. 그래도 괜찮습니다. 사람들이 이해하지 못하는 정체성들도 존중받을수 있어야 하지 않을까요?
 
-**Use the name a person asks you to use.** This is one of the most critical aspects of being respectful of a nonbinary person, as the name you may have been using may not reflect their gender identity. Don’t ask someone what their old name was.
+**써달라는 이름을 써주세요.** 논바이너리들은 사용하고 있던 이름이 스스로의 젠더 정체성과 일치하지 않는 경우도 있습니다. 그렇기 때문에 써달라는 이름을 사용하는 것이 논바이너리들을 존중하는데에 있어서 상당히 중요한 부분입니다. 옛 이름이 무엇인지도 안 물어보는 것이 좋습니다.
 
-**Try not to make any assumptions about people’s gender.** You can’t tell if someone is nonbinary simply by looking at them, just like how you can’t tell if someone is transgender just by how they look. A nonbinary person might appear feminine, masculine, or genderless, or show a mix of gendered characteristics – and their appearance doesn’t determine their pronouns.
+**다른 사람들의 젠더에 대해 추측할려고 하지 말아주세요.** 어떤 사람이 트랜스젠더인지 외형만 보고 말하기 어려운 것 처럼, 그냥 보는 것으로는 논바이너리인지 알기 어려울 수도 있습니다. 논바이너리인 사람들은 여성적이거나, 남성적, 젠더리스, 혹은 여러 젠더의 특징이 혼합된 외형을 가지고 있을 수 있는데, 이러한 생김새가 영어 대명사를 결정하지는 않습니다.
 
-**If you’re not sure what pronouns someone uses, ask.** Different nonbinary people may use different pronouns. Many nonbinary people use “they” while others use “he” or “she,” and still others use [other pronouns](https://uwm.edu/lgbtrc/support/gender-pronouns/). Asking whether someone should be referred to as “he,” “she,” “they,” or another pronoun may feel awkward at first, but is one of the simplest and most important ways to show respect for someone’s identity.
+**어떤 대명사를 사용할지 잘 모르겠다면 물어봐주세요.** 논바이너리들은 각자 다른 대명사를 사용합니다. 많은 논바이너리들이 "they"를 사용하는 반면, 어떤 논바이너리들은 "he"나 "she", 혹은 [다른 대명사](https://uwm.edu/lgbtrc/support/gender-pronouns/)를 사용하기도 합니다. 누군가를 "he", "she," 혹은 "they"로 불러야 하는지 물어보는 것이 처음에는 어색하게 느껴질 수도 있지만, 이 방법이 누군가의 정체성을 존중하는 데에 가장 간단하면서도 정말 효과적인 방법이기도 합니다.
 
-**Advocate for non-binary friendly policies.** It’s important for nonbinary people to be able to live, dress and have their gender respected at work, at school, and in public spaces.
+**논바이너리 친화적인 정책을 지지해주세요.** 논바이너리들이 직장, 학교, 공공장소에서 자신들의 젠더에 맞게 살고, 입고, 존중받는 것은 중요합니다.
 
-**Understand that, for many nonbinary people, navigating gendered spaces - like bathrooms - can be challenging.** For many nonbinary people, using either the women’s or the men’s restroom might feel unsafe, because others may verbally harass them or even physically attack them. Nonbinary people should be able to use the restroom that they believe they will be safest in. You can help support nonbinary people by accepting their judgment about where they feel most comfortable when dealing with spaces that are based on binary gender distinctions.
+**논바이너리들에게 있어서 화장실과 같은 성별로 구분된 공간을 이용하는데에 어려움이 있을수 있다는 내용을 이해해주세요.** 많은 논바이너리들이 여성 혹은 남성 화장실을 사용할 때 안전하지 않다고 느낄 수도 있습니다. 어떤 사람들은 언어적으로 괴롭히거나 신체적으로 공격을 할수도 있습니다. 논바이너리들은 자신이 가장 안전하다고 느끼는 화장실을 사용할 수 있어야 합니다. 성별로 구분된 공간에 관한 내용을 다룰 때 논바이너리들이 자신들이 가장 편안하다고 느끼는 스스로의 판단을 존중함으로써 지지해줄 수도 있습니다.
 
-**Talk to nonbinary people to learn more about who they are.** There’s no one way to be nonbinary. The best way to understand what it’s like to be nonbinary is to talk with nonbinary people and listen to their stories.
+**논바이너리들과 대화해보면서 더 알아볼수도 있습니다.** 논바이너리가 되는 데에는 한가지 방법만 있는 것이 아닙니다. 논바이너리가 되는 것이 어떤 것인지 아는 데에는 논바이너리들과 이야기해보고 그들의 이야기를 들어보는 것 만큼 좋은 방법이 없습니다.
 
-### Related Links:
-- [About Transgender People](https://transequality.org/about-transgender)
-- [Frequently Asked Questions About Transgender People](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people)
-- [Supporting the Transgender People in Your Life: A Guide to Being a Good Ally](https://transequality.org/issues/resources/supporting-the-transgender-people-in-your-life-a-guide-to-being-a-good-ally)
+### 참고 자료 링크:
+- [트랜스젠더에 대해](https://transequality.org/about-transgender)
+- [트랜스젠더에 대해 자주 질문되는 내용들](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people)
+- [삶에서 보게 되는 트랜스젠더들 지지해주기: 어떻게 힘이 되어줄지에 대한 가이드](https://transequality.org/issues/resources/supporting-the-transgender-people-in-your-life-a-guide-to-being-a-good-ally)
