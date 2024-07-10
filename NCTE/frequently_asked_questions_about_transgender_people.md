@@ -1,5 +1,5 @@
 # 트랜스젠더에 대해 자주 질문되는 내용들
-원문을 읽고 싶으신가요? [여기](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people)를 확인해보세요.
+> 원문을 읽고 싶으신가요? [여기](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people)를 확인해보세요.
 
 > **젠더가 뭔가요?**
 > 
