@@ -39,7 +39,7 @@
 **논바이너리들과 대화해 보면서 더 알아볼 수도 있습니다.** 논바이너리가 되는 데에는 한가지 방법만 있는 것이 아닙니다. 논바이너리가 되는 것이 어떤 것인지 아는 데에는 논바이너리들과 이야기해 보고 그들의 이야기를 들어보는 것만큼 좋은 방법이 없습니다.
 
 
-## 참고 자료 링크:
+## 관련 링크:
 - [트랜스젠더에 대해](https://transequality.org/about-transgender)
 - [트랜스젠더에 대해 자주 질문되는 내용들](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people)
 - [삶에서 보게 되는 트랜스젠더들 지지해 주기: 어떻게 힘이 되어줄지에 대한 가이드](https://transequality.org/issues/resources/supporting-the-transgender-people-in-your-life-a-guide-to-being-a-good-ally)
