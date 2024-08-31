@@ -54,7 +54,7 @@ _젠더 퀴어 (genderqueer)_ 는 스스로의 젠더가 "남성"과 "여성"이
 
 트랜스젠더마다 전환 과정이 다 다릅니다. 이러한 이유 때문에 개인이 젠더 정체성을 어떻게 표현하고 살아가길 원하는지 영향을 끼치는 요소는 사람마다 다르고 다양할 수 있습니다. 트랜스젠더에게 획일화 치료를 제공하는데 경험이 있고 자격이 있는 정신 건강 전문가를 찾는 것이 첫 번째 중요한 단계입니다. 이러한 유자격 전문가들은 다른 전문가를 추천해 줄 수 있을 뿐 아니라 여러 방면에서도 도움이 많이 됩니다. 동료 지원 (peer support) 그룹을 통해 다른 트랜스젠더들을 알게 되는 것도 좋은 방법이고, 트랜스젠더 단체들도 도움이 됩니다.
 
-트랜스젠더 치료에 집중하는 세계 트랜스젠더 건강 전문 협회 (The World Professional Association for Transgender Health, WPATH)는 젠더 획일화 수술과 제공받을 수 있는 서비스를 추천해 주는 _젠더 정체성 장애 관리 기준 (The Standards of Care for Gender Identity Disorders)_ 을 출판하고 있습니다.
+트랜스젠더 치료에 집중하는 세계 트랜스젠더 건강 전문 협회 (The World Professional Association for Transgender Health, WPATH) 는 젠더 획일화 수술과 제공받을 수 있는 서비스를 추천해 주는 _젠더 정체성 장애 관리 기준 (The Standards of Care for Gender Identity Disorders)_ 을 출판하고 있습니다.
 
 
 ## 트랜스젠더가 정신 질환인가요?
