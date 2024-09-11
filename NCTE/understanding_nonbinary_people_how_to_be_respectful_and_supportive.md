@@ -1,3 +1,8 @@
+---
+title: "논바이너리들 이해하기: 존중하고 지지해주는 방법"
+---
+
+
 # 논바이너리들 이해하기: 존중하고 지지해주는 방법
 > 원문을 읽고 싶으신가요? [여기](https://transequality.org/issues/resources/understanding-nonbinary-people-how-to-be-respectful-and-supportive)를 확인해보세요.
 
