@@ -1,141 +1,146 @@
-# Understanding Gender Identities
+---
+title: "젠더 정체성 이해하기"
+---
 
-It’s important to remember that gender roles aren’t set in stone.
 
-## Welcome!
-There are a lot of different ways someone can express their gender or sex.
+## 젠더 정체성 이해하기
+젠더 역할이라는 게 고정돼 있지 않다는 점을 기억하는 것이 중요합니다.
 
-**Gender identity** isn’t an easy topic to understand, and sometimes we need to unlearn some old ideas so we can really get what gender is all about. Most of us were taught that there are only **two genders** (man/masculine & woman/feminine) and **two sexes** (male & female). However, there is **a lot more** to it than that.
+> 원문을 읽고 싶으신가요? [여기](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/)를 확인해보세요.
 
 
 
-## What is Gender?
-**Gender is a social construct**, an idea created by people to help categorize and explain the world around them. You may not notice it all the time, but each gender comes with **a set of expectations**, like how to act, talk, dress, feel emotion, and interact with other people. For example, when you think of a teenage boy living in the United States, what comes to mind? Do you imagine him playing football, or do you picture him dancing in a ballet recital? It’s likely that you imagined him playing football first — **but why?**
+## 환영합니다!
+사람들이 자신들의 젠더나 성별을 표현하는 데에는 여러 가지 방법들이 있습니다.
 
-In the United States, we have **very defined gender roles** that describe what it means to be a boy or a girl, a man or a woman, and we learn what’s expected of us at a very early age. Even though **these expectations are made up** — there’s no reason why boys shouldn’t be encouraged to practice ballet, for example — gendered characteristics, activities, expressions, and stereotypes are really **ingrained in our society**, and shape most of our lives.
+**젠더 정체성**은 이해하기 쉬운 주제는 아닙니다. 때로는 젠더가 뭔지 정말로 이해하기 위해 오래된 개념들을 버려야 할 때도 있습니다. 대부분의 사람들은 **두 가지 젠더**(남성/남성적 및 여성/여성적)와 **두 가지 성별**(남성과 여성)만 존재한다고 배우게 됩니다. 하지만 **훨씬 더 많은** 젠더와 성별이 존재합니다.
 
-Here are some other **gender-specific constructed differences** that you may recognize: **young girls** often get pink clothes, and **boys** get blue clothes; **women** are deemed overemotional and **men** are discouraged from crying; a deep voice is considered masculine while a high voice is feminine; **boys** should play with building blocks and **girls** should play with dolls; **men** are athletic and aggressive, **women** are nurturing and gentle… **the list of expectations based on gender** can go on and on, and changes from culture to culture.
 
-In reality, **gender roles** aren’t set in stone. Even though our society expects certain things from certain people, **we don’t have to conform**. Rather than on a **binary** (only two ways of being), gender and sex exist on a **spectrum**, meaning that there are a lot of different ways that people can express their gender identity or sex.
 
+## 젠더가 뭔가요?
+**젠더는 사회적 형성물로써** 사람들이 주변 세상을 분류하고 설명하기 위해 만든 개념입니다. 항상 눈에 띄진 않지만, 각 젠더에게는 어떻게 행동하고, 말하고, 입고, 감정을 느끼고, 다른 사람들과 상호작용하는지와 같은 **일련의 기대**가 따르게 됩니다. 예를 들어서 미국에 사는 10대 소년을 생각할 떄, 어떤 내용들이 떠오르시나요? 미식축구를 하는 모습을 상상하시나요, 아니면 발레 공연에서 춤을 추는 모습이 생각나시나요? 아마 미식축구를 하는 모습을 먼저 떠올랐을 가능성이 높았을 겁니다. **그런데 왜 그럴까요?**
 
+미국에서는 소년이나 소녀, 혹은 남성이나 여성이 된다는 것이 무슨 의미인지에 대한 매우 **뚜렷한 젠더 역할**이 존재하는데, 아주 어린 나이부터 우리는 우리에게 기대되는 역할들을 배우게 됩니다. 예를 들어서 소년이 발레를 연습하도록 독려되지 않아야 할 이유가 없듯, 이러한 기대는 **만들어진 내용들**이라고 볼수 있지만, 젠더에 따른 특징, 활동, 표현, 고정관념은 우리 사회에 정말로 **깊이 뿌리박혀** 있고 우리 삶의 대부분을 형성하게 됩니다.
 
-## Content
-- [What is the difference between Gender and Sex?](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#genderandmore)
-- [Understanding Transphobia](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#understandingtransphobia)
-- [Intersex Identities](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#intersexidentities)
-- [Frequently Asked Questions](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#frequentlyaskedquestions)
-- [Resources](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#resources)
+다음은 여러분이 알수도 있는 또 다른 **젠더에 관련된 형성된 차이들**입니다: **소녀**는 종종 분홍색 옷을 입고 **소년**은 파란 옷을 입는다; **여자**는 매우 감정적이며 **남자**는 울음을 참아야 한다; 높은 목소리가 여성적이라고 여겨지는 반면 낮은 목소리는 남성적이라고 여겨진다; **소년**들은 쌓기 블럭을 가지고 놀아야 하고 **소녀**들은 인형을 가지고 놀아야 한다; **남자**는 운동적이고 공격적이여야 하며, **여자**는 돌보는 역할을 하고 부드러워야 한다고 여겨진다... 젠더에 따라 기대되는 내용은 계속 이어지고, 이런 내용들은 문화마다 다르기도 합니다.
 
+실제로, **젠더 역할** 이라는 것이 고정돼 있지 않습니다. 우리 사회가 특정한 것들을 특정한 사람들로부터 기대하게 되지만, **우리가 반드시 따라야 하는 것은 아닙니다**. 젠더와 성별은 (2가지 방법만 있다는 의미로) **이분법적**으로 존재하기 보다는 **스펙트럼** 상에 존재합니다. 즉, 사람들이 젠더 정체성이나 성별을 표현하는 데에는 많고 다양한 방법이 있다는 의미입니다.
 
 
-## What is the difference between Gender and Sex?
-When we are born, a doctor assigns us a **sex**. This has to do with our **biology**, **chromosomes**, and **physical body**. **Male** babies are generally labeled as **boys** and **female** babies are generally labeled as **girls**. But even sex is more complex than that — and it really exists on a **spectrum**. **Intersex** individuals have **physical sex traits** or **reproductive anatomy** that are present at birth or emerge spontaneously later in life, and differ from **normative expectations** of “male” and “female.”
 
-Some people never question their assigned gender or sex, and choose to identify with what they were **assigned at birth** — that’s called being “**cisgender**.” But there are others who do question their gender or sex, **and that’s completely normal and ok**.
+## 목차
+- [젠더와 성별의 차이가 뭔가요?](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#genderandmore)
+- [트랜스포비아<sup>(트랜스젠더공포증, transphobia)</sup> 이해하기](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#understandingtransphobia)
+- [간성 정체성](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#intersexidentities)
+- [자주 질문되는 내용들](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#frequentlyaskedquestions)
+- [자료](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#resources)
 
-If you don’t feel that your **gender identity** — meaning, your own personal sense of what your gender is — matches the gender you were **assigned at birth**, you might identify as **transgender (or trans)**. And like sex is an expansive and complex spectrum, so is gender.
 
-### What does nonbinary mean?
-**Nonbinary** genders, like genderfluid, genderqueer, polygender, bigender, and [many others](https://www.thetrevorproject.org/research-briefs/diversity-of-nonbinary-youth/), are genders that exist outside of the male/female/man/woman **binary**. It’s important to note that not all **nonbinary folks identify as trans**, but may share many of the same experiences as trans folks.
 
-Are you questioning your gender and aren’t sure what feels right to you? It’s okay. You are not alone! Consider a few of these questions:
+## 젠더와 성의 차이가 뭔가요?
+우리가 태어날 떄, 의사가 우리에게 성별을 지정해주게 됩니다. 이때 지정되는 성별은 여러분의 **생물학**, **염색체**, **물리적인 신체**와 관련이 있습니다. **남성**인 아기들은 일반적으로 **소년**으로 분류되고, **여성**인 아기들은 일반적으로 **소녀**로 분류됩니다. 하지만 성별 조차도 이보다 복잡하며 **스펙트럼** 상에 존재하게 됩니다. **간성**인 개인들은 태어날 때 혹은 이후에 자발적으로 나타나며 "남성", "여성"의 **규범적인 기대**와 다른 **신체적인 성 성징**이나 **생식 기관**을 가지고 있습니다.
 
-- How do you feel about your birth gender?
-- What gender do you wish people saw you as?
-- How would you like to express your gender?
-- What pronouns (like he/him or she/hers, or ze/zir or they/them) do you feel most comfortable using?
-- When you imagine your future, what gender are you?
+어떤 사람들은 자신에게 출생 시 지정된 젠더나 성별에 의문을 품지 않고, **출생 시 지정된 성별**<sup>(sex assigned at birth)</sup>과 동일하게 정체화하기로 선택하게 되는데, 이를 **"시스젠더"**<sup>(cisgender)</sup>라고 합니다. 하지만 자신의 젠더나 성별에 대해 의문을 품는 사람도 존재하는데, 그래도 **완전히 정상적이고 괜찮습니다.**
 
-There are many aspects of someone’s gender:
+여러분이 개인적으로 느끼는 자신의 젠더를 의미하는 **젠더 정체성**이 **출생 시 지정된 성별**과 일치한다고 느끼지 않으면 **트랜스젠더 (혹은 영어 약자로 trans)** 라고 정체화할 수도 있습니다. 성별이 광범위하고 복잡한 스펙트럼인 것처럼, 젠더도 마찬가지입니다.
 
-**Gender Expression:** The way in which people present or express their gender, including physical appearance, clothing, hairstyles, and behavior. People can exert a certain degree of control over their gender expression depending on their resources and environment.
+### 논바이너리가 무슨 뜻인가요?
+젠더플루이드<sup>(genderfluid)</sup>, 젠더퀴어<sup>(genderqueer)</sup>, 폴리젠더<sup>(polygender)</sup>, 바이젠더<sup>(bigender)</sup>, 그리고 [다른 다양한 젠더들](https://www.thetrevorproject.org/research-briefs/diversity-of-nonbinary-youth/) 처럼 **논바이너리** 젠더들은 남성/여성/남자/여자의 **이진법** 밖에 존재하는 젠더들입니다. 모든 **논바이너리인 사람들이 트랜스젠더로 정체화**하지는 않지만, 트랜스젠더와 비슷한 경험을 공유할 수 있다는 점을 짚고 넘어가는 것이 중요합니다.
 
-**Gender Identity:** Our personal sense of what our own gender is. 
+자신의 젠더에 대해 고민 중이거나, 무엇이 맞는지 확신하지 못하고 계신가요? 괜찮습니다. 당신은 혼자가 아닙니다! 다음 질문들 중 몇 가지를 생각해보세요:
 
-**Perceived Gender:** How the world sees and understands your gender.
+- 출생 젠더에 대해 어떻게 느끼시나요?
+- 사람들이 여러분을 어떤 젠더로 보길 원하시나요?
+- 자신의 젠더를 어떻게 표현하고 싶으신가요?
+- (he/him, she/hers, ze/zir, 혹은 they/them과 같이) 어떤 대명사를 사용할 때 가장 편안하게 느껴지시나요?
+- 미래를 상상했을 때, 여러분은 어떤 젠더인가요?
 
-If you decide that your current **gender** or **sex** just isn’t right for you, you may want to make your **gender identity** fit with your ideal **gender expression** and **presentation**. This is called **[transitioning](https://www.thetrevorproject.org/blog/on-the-trans-nonbinary-umbrella/)**, and can include **social** (like telling other people about which [pronouns](https://www.thetrevorproject.org/research-briefs/pronouns-usage-among-lgbtq-youth/) you like), **legal** (like changing your name), or **medical** (like taking hormones or having surgery).
+사람들의 젠더에는 여러 가지 측면이 있습니다:
 
-Some folks might choose to transition in only some aspects of their life. Some folks may receive **[gendering affirming care](https://www.thetrevorproject.org/research-briefs/gender-affirming-care-for-youth/)** while others may not. **None of these steps are necessary**, and people should be allowed to figure out what works best for themselves in their **exploration of gender**. You don’t have to go through all of these things to be “officially” trans, or to have your gender identity be valid. It’s all up to you, and what feels safe and comfortable.
+**젠더 표현**<sup>(Gender Expression)</sup>**:** 사람들이 자신의 젠더를 드러내거나 표현하는 방식으로 외모, 옷차림, 헤어스타일, 행동을 포함합니다. 사람들은 자신의 자원과 환경에 따라 젠더 표현의 행사를 어느 정도 조절할 수도 있음.
 
-Terms and labels are important when talking about the trans community. While there are some general guidelines to follow, terms and labels are often unique to individuals and **it is always best to check with someone about how they identify** and which terms they prefer to use to describe themselves. 
+**젠더 정체성**<sup>(Gender Identity)</sup>**:** 여러분이 개인적으로 느끼는 자신의 젠더입니다.
 
-Below are some general guidelines and common terms:
+**인식되는 젠더**<sup>(Perceived Gender)</sup>**:** 세상이 여러분의 젠더를 보고 이해하는 방식입니다.
 
-- You may see the term **trans** shortened with an asterisk (*) to include the many identities that fall under the trans umbrella.
-- The term “**transgender**” should only be used as an adjective and never as a noun (i.e. “My friend is transgender” vs. “My friend is a transgender.”)
-- A more often-used term is simply “**trans**.”
-- The term “**transgendered**” is grammatically incorrect and should never be used.
-- Some trans people identify as **transsexual**, although others consider it to be outdated. **Always ask for**, and use, the term that a person prefers.
+현재의 젠더나 성별이 자신에게 맞지 않다고 판단한다면, 자신의 젠더 정체성을 이상적인 **젠더 표현**과 **표현 방식**에 맞추고 싶을 수도 있습니다. 이를 **[전환](https://www.thetrevorproject.org/blog/on-the-trans-nonbinary-umbrella/)**<sup>(트랜지션)</sup> 이라고 부르며, 이러한 전환은 **사회적**(사람들에게 어떤 [대명사](https://www.thetrevorproject.org/research-briefs/pronouns-usage-among-lgbtq-youth/)를 선호하는지 말하는 것), **법적**(개명을 하는 것), 혹은 **의료적**(호르몬을 투여하거나 수술을 받는 것)인 요소들을 포함할 수도 있습니다.
 
+어떤 사람들은 인생의 어떤 시기에 전환을 하기로 결정할 수도 있습니다. 어떤 사람들은 [**젠더 획일화 치료**](https://www.thetrevorproject.org/research-briefs/gender-affirming-care-for-youth/)를 받기도 하고 어떤 사람들을 그렇지 않을 수도 있습니다. **이러한 단계들 중 어떠한 단계도 필수가 아니며**, 사람들이 **젠더를 탐험하면서** 스스로 어떤 방법이 가장 잘 맞는지 알아낼 수 있도록 허용되어야 합니다. "공식적으로" 트랜스젠더가 되거나 자신의 젠더 정체성을 인정받기 위해 이러한 모든 과정들을 거쳐야 할 필요도 없습니다. 모든 것은 본인에게 달려 있습니다. 안전하고 편안하게 느껴지는 방식에 따라 다를 수도 있습니다.
 
+트랜스젠더 공동체에 대해 이야기할 떄 용어와 꼬리표는 매우 중요합니다. 일반적으로 따라야 하는 가이드라인이 있긴 하지만, 용어와 꼬리표는 종종 개인마다 다를 수 있으며, **누군가가 자신을 어떻게 정체화하는지**, 자신을 설명할 때 어떤 용어를 선호하는지를 확인하는 것이 항상 좋습니다.
 
-## Understanding Transphobia
-**Trans** people often face **hatred** or **fear** just because of who they are. Even some cisgender LGBQ people may have transphobic feelings that can make it harder for them to [support trans people](https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/) as they also fight for **equality** and **acceptance**.
+다음은 일반적인 가이드라인과 주로 사용되는 용어입니다:
 
-If you ever feel that you are a victim of a transphobic hate crime, please consult the [Transgender Legal Defense & Education Fund](https://www.transgenderlegal.org/).
+- (영어) **Trans** 라는 축약형 용어가 별표(*)외 함께 포괄적인 트랜스젠더 범위에 해당하는 많은 정체성들을 포함하는데 사용되는 것을 보게 될 수도 있습니다.
+- (영어) "**트랜스젠더**" 라는 용어는 형용사로 사용되어야 하며 명사로 사용되어선 안됩니다. (예:  “My friend is transgender” vs. “My friend is a transgender.”)
+- (영어) 짧게 "**Trans**" 라는 용어가 더 자주 사용됩니다.
+- (영어) "**transgendered**<sup>(트랜스젠더되다)</sup>"는 문법적으로 틀린 표현이며 절대 사용되어선 안됩니다.
+- 어떤 사람들은 시대에 뒤떨어졌다고 간주하긴 하지만, 일부 사람들은 **트랜스섹슈얼**로 정체화하게 됩니다. **항상** 상대방이 어떤 용어를 선호하는지 **물어보고 그 용어를 사용해주세요**.
 
 
 
-## Intersex Identities
-**Sex** is entirely distinct from **gender**, something that is determined by our **biology** and **physical** characteristics. As mentioned before, sex is typically thought of in the binary of **male** and **female**. In actuality, people’s genetics and bodies are much more complex than that. Still, many **intersex** people are assigned a sex of male or female at birth, even if they are more somewhere in the middle.
+## 트랜스포비아<sup>(트랜스젠더공포증, transphobia)</sup> 이해하기
+**트랜스젠더들**은 자신의 정체성만으로 **혐오**나 **두려움**에 직면하는 경우가 많습니다. 심지어 일부 시스젠더이면서 LGBT인 사람들 조차도 트랜스포빅한 감정을 가질 수 있는데, 이런 감정을 가지다보면 **평등**과 **수용**을 위해 싸우면서도 [트랜스젠더들을 지지](https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/)하기 어려워지게 됩니다.
 
-If you think you might be intersex, please know you are not alone. Visit the [Intersex Society of North America](https://isna.org/faq/conditions/know/)’s website for resources and information that may help you.
+트랜스포빅한 혐오 범죄의 피해자라고 느낀다면 [트랜스젠더 법적 방어 및 교육 기금](https://www.transgenderlegal.org/)<sup>(Transgender Legal Defense & Education Fund)</sup>과 상담해 보시길 바랍니다.
 
-### Talking About Intersex Folks
-**Intersex** is an adjective that describes a person. It is never a noun or a verb, because no one can be “**intersexing**” or “**intersexed.**”
 
-You may have heard the word “hermaphrodite” from Greek mythology. Like certain words used to refer to the trans community, this term is considered archaic and offensive to intersex people. Still, **always ask** for, and use, the term that a person prefers.
 
+## 간성 정체성
+**성별**은 **젠더**와 완전히 구별되는 내용이며, 성별은 우리의 **생물학적**이고 **신체적인** 특성들에 의해 결정됩니다. 앞서 언급했듯이, 성별은 보통 **남성**과 **여성**이라는 이분법으로 생각되곤 합니다. 실제로는 사람의 유전학과 신체는 이보다 훨씬 더 복잡합니다. 그럼에도 불구하고 많은 간성인 사람들이 태어날 때 남성 또는 여성으로 지정되며, 그들이 그 중간 어딘가에 위치하더라도 그렇게 분류됩니다.
 
+만약 자신이 간성일 수도 있다고 생각한다면, 당신이 혼자가 아니라는 점을 기억해주세요. [북미 간성 사회](https://isna.org/faq/conditions/know/)<sup>(Intersex Society of North America)</sup>를 방문하여 도움이 될 수도 있는 자료와 정보를 확인해보세요.
 
-## Frequently Asked Questions Regarding Gender Identity
+### 간성인 사람들에 대해 이야기할 때
+간성을 뜻하는 영단어 **Intersex**는 사람을 설명하는 형용사입니다. 누군가가 **"간성중"**<sup>(intersexing)</sup>이거나 **"간성될"**<sup>(intersexing)</sup>수 없으므로, 절대 명사가 동사가 아닙니다.
 
-#### Question 1: _I am not completely comfortable with the body I was born with. In particular, my feminine figure is really getting to me, and I really wish that I had the ability to grow facial hair. I’ve begun to consider HRT (hormone replacement therapy) to help me feel comfortable with my body, after I check with my therapist. But how will taking hormones affect other things, like taking birth control, or getting my period? Will I need to get a hysterectomy because of taking hormones?_
-Answer: First, please know that you don’t have to figure all of this out all at once. It can take time to figure out what is right for you and your body. You are not alone in this.
+그리스 신화에서 "양성구유"<sup>(hermaphrodite)</sup>라는 단어를 들어본 적이 있을 수도 있습니다. 트랜스젠더 공동체를 지칭하는 특정한 단어들처럼, 이 용어는 시대에 뒤쳐졌고 간성인 사람들에게 모욕적인 표현으로 받아들여집니다. 하지만, **항상** 상대방이 어떤 용어를 선호하는지 **물어보고 그 용어를 사용해주세요**.
 
-It’s great that you’re considering your options, and want to work out a plan that will help you get to the place where you want to be. It sounds like you have a very good idea of what you’re looking for, and what you hope to get out of hormone replacement therapy. That’s a great first step, because it’s really important to understand what could make you feel more like you.
 
-Have you talked to your therapist about any of your questions, including any specific anxieties you’re having about some of these unknowns? A lot of the questions and issues you bring up can be really complicated, especially in terms of the deep and complex ways in which the physical and emotional aspects of all of this are tied together.
 
-Have you found and/or talked to a [trusted health provider yet](https://www.thetrevorproject.org/resources/guide/lgbtq-youth-health-care/)? It sounds like you have a lot of very specific questions about how hormones might affect you physically, and about any unintended side effects HRT might cause. Everybody is different, so a medical professional would be the best person to tell you about what you could expect from HRT, depending on what your dose is and what your personal needs are.
+## 젠더 정체성과 관련하여 자주 질문되는 내용들
 
-Your therapist might also be able to recommend a trans-friendly physician in your area who can better answer your questions. If you have been considering getting hormones from a non-professional source, or if consulting with a doctor is not an option for you, we would encourage you research trusted sources before putting anything into your body.
+#### 질문1: _제가 태어난 몸이 완전히 편안하진 않아요. 더 구체적으로는, 제 여성적인 몸매가 신경이 쓰이고, 얼굴에 수염이 났으면 좋겠다고 간절히 바라고 있어요. 상담사와 상담한 후, 몸에 편안함을 느낄 수 있도록 HRT(호르몬 대체 요법)를 고려하기 시작했어요. 하지만 호르몬을 투여하는 게 피임약을 복용하는 것이나 생리를 하는 것과 같은 다른 부분에 어떤 영향을 끼칠까요? 호르몬을 복용하는 것 때문에 자궁 적출 수술을 받아야 하게 될까요?_
+답변: 먼저 모든 것들을 한 번에 다 알아낼 필요가 없다는 점을 알아주세요. 당신과 당신의 몸에 무엇이 맞는지 알아가는 데에는 시간이 걸릴 수도 있습니다. 이 과정에서 당신은 혼자가 아닙니다.
 
-Most medical professionals strongly advise against taking any kind of medication that isn’t prescribed because it can be very dangerous, especially since the source and quality of the drugs cannot be verified or regulated.
+당신이 자신에게 맞는 선택지를 고민하고, 원하는 목표에 도달하기 위한 계획을 세우려는 것은 정말 좋은 일입니다. 무엇을 찾고 있는지, 호르몬 대체 요법을 통해 무엇을 얻고 싶은지에 대해 명확히 알고 있는 것처럼 들립니다. 정말 좋은 첫 걸음입니다. 자신을 더 자신처럼 느껴지게 만드는 것이 뭔지 이해하는 것이 아주 중요하니까요.
 
-We hope that you can talk to a doctor face-to-face and get your questions answered. In the meantime, you are always welcome to contact us at [The Trevor Project](https://www.thetrevorproject.org/).
+이렇게 아직 잘 모르는 내용에 관한 불안을 포함해서, 질문한 내용을 상담사와 함께 논의해보셨나요? 특히 신체적이고 감정적인 측면이 서로 얽혀있는 방식으로 깊고 복잡한 만큼, 질문한 내용이나 문제의 많은 부분이 많이 복잡할 수도 있습니다.
 
-We are always available to talk through how you’re feeling about transitioning, taking care of yourself, and more. If you aren’t already on [TrevorSpace](http://www.trevorspace.org/), we encourage you to check it out; LGBTQ+ young people from all over the world use it to make friends and get advice. Chances are, someone on TrevorSpace will have gone through something very similar.
+[신뢰할 수 있는 의료 서비스 제공자](https://www.thetrevorproject.org/resources/guide/lgbtq-youth-health-care/)를 찾으셨거나 대화를 나눠보셨나요? 호르몬이 신체에 어떤 영향을 미칠지, 그리고 HRT가 초래할 수 있는 예상치 못한 부작용에 대해 구체적인 질문들이 많은 것 처럼 들립니다. 모두가 서로 다 다르기 때문에, HRT를 하면서 의료 전문가만큼 투여량이나 개인적인 필요에 따라 어떤 것들을 기대할 수 있는지 알려주기 좋은 사람이 없습니다.
 
+상담사도 당신의 질문에 더 잘 답변해줄수 있는 트랜스젠더 친화적인 의사를 추천해줄수 있을지도 모릅니다. 만약 비전문적인 경로로 호르몬을 구하는 것을 고려하고 있거나, 의사와 상담하는 것이 어려운 상황이라면, 몸에 무언가를 투여하기 전에 신뢰할 수 있는 자료들을 철저히 조사해볼 것을 권장합니다.
 
-#### Question 2: _I told my mom that I think I’m trans, but she thinks that it’s just a phase. What if she’s right? I really don’t want to come out and ask people to use my new name and pronouns, and then have it mean nothing. What if I decide that I’m not really a man?_
-Answer: First of all, it was a big step for you to tell your mom that you think you’re trans. Sometimes our parents and friends need some time to really absorb and understand what we’ve shared. Just like you had your own process for discovering your identity, they need to figure out how they feel, too. It sounds like some of the doubts your mom is expressing have started to creep into your own thinking around who you are, which can be difficult, especially if you value her opinion. For now, let’s focus on your feelings and thoughts. It sounds like you’re worried you might not really be trans, or
+대부분의 의료 전문가들이 처방되지 않은 약을 복용하는 것에 강력히 반대합니다. 약물의 유통 경로와 품질을 확인하거나 규제할 수 없으므로 매우 위험할 수 있기 때문입니다.
 
-that one day you’ll change your mind about your gender identity.
+여러분이 의사와 직접 상담을 하면서 질문하는 내용에 대한 답을 얻을 수 있기를 바랍니다. 그동안 언제든 [The Trevor Project](https://www.thetrevorproject.org/)에 연락해주셔도 환영입니다.
 
-It can be scary when you’re unsure of who you are, but don’t worry, you aren’t alone. The truth is that you’re never stuck with anything. As we go through life, we can grow, change, and even change course. If you’re feeling very strongly about being a man, go with your instincts. You know yourself better than anyone else.
+저희는 항상 당신이 전환, 자기 돌봄 등에 대해 어떻게 느끼는지 이야기를 나눌 준비가 돼 있습니다. [TrevorSpace](http://www.trevorspace.org/)를 사용하지 않는다면, 한번 확인해 보길 권장합니다. 전 세계의 LGBTQ+ 청소년들이 친구를 사귀고 조언을 구하는데 사용할 수 있는 서비스입니다. TrevorSpace에서 아주 비슷한 일을 겪은 사람을 볼 가능성도 매우 높습니다.
 
-Coming out is a very personal decision and you don’t have to tell other people about being trans if you don’t want to. However, it also sounds like you’re worried about other people’s reactions and wonder if it’s worth it to ask them to use your name and pronouns. We recommend checking out our [Coming Out Handbook](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/), which can help you weigh the pros and cons of coming out. There are sections that talk about finding support, preparing for how other people might react, and staying safe during your process.
 
-If or when you do decide to come out as trans, you don’t have to do it all at once. It is totally up to you who, when, and how to come out, and it can even be a slow, step-by-step process. Regardless of what you decide to do, please know that you are never alone — we are always here for you.
+#### 질문2: 어머니한테 제가 트랜스젠더인것 같다고 말했더니 시간이 지나면 사라질 거라고 생각하세요. 어머니 말이 맞으면 어떡하죠? 커밍아웃을 하고 사람들에게 새 이름과 대명사를 사용해달라고 하다가 이런 노력이 아무 의미 없게 만들어버리고 싶진 않아요. 만약 제가 남자가 아니라고 다시 정해버리면 어떡하죠?
+답변: 우선, 어머니에게 트랜스젠더인것 같다고 말한 게 큰 걸음입니다. 가끔은 부모님이나 친구들이 공유한 내용을 정말로 받아들이는데 시간이 조금 필요하기도 합니다. 스스로의 정체성을 발견하는 시간을 가진 것처럼, 다른 사람들도 어떻게 느끼는지 알아낼 시간이 필요합니다. 어머니가 표현하는 의심이 당신의 정체성에 대한 생각에 영향을 미치고 있는 것처럼 보이는데, 특히 어머니의 의견을 존중해주고 중요하게 생각한다면 어려울 수도 있습니다. 지금은 당신의 감정과 생각에 집중해 봅시다. 트랜스젠더가 아닐 수도 있을지 걱정하거나, 언젠가 당신의 젠더 정체성에 대해 생각을 바꿀 수도 있을지 걱정하는 것처럼 보입니다.
 
+자신이 누구인지 확실하지 않다면 무서울 수도 있습니다. 하지만 걱정 마세요. 당신은 혼자가 아닙니다. 실제로는 진척이 없는 것도 아닙니다. 삶을 살게 되면 성장하기도 하고, 변화하기도 하고, 방향을 바꾸게 되기도 합니다. 남자가 되는 데에 매우 강한 생각이 든다면, 직감을 따라보세요. 다른 사람보다 당신이 당신을 가장 잘 알겁니다.
 
-#### Question 3: _Lately I’ve had this desire to be a girl. I know I’m not ready to come out, but I’m planning to grow out my hair and wear more girly-types of clothes. I’m not sure what my parents would make of it, but I can’t get this off of my mind. Should I go ahead with it?_
-Answer: If you feel safe and comfortable starting to express your gender in a new way, then that’s your decision — after all, you know yourself best! Taking small steps, like letting your hair grow longer and wearing more feminine clothes can help you learn more about your own gender identity.
+커밍아웃은 매우 개인적인 결정이고, 원하지 않는다면 다른 사람들에게 트랜스젠더라도 말하지 않아도 좋습니다. 하지만 당신이 다른 사람들의 반응에 대해 걱정하고, 원하는 이름과 대명사를 써달라고 하는 것이 그럴 가치가 있는지 궁금해 하는 것으로도 보입니다. 저희가 작성한 [커밍아웃 핸드북](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)을 한번 확인해보시길 추천합니다. 이 핸드북은 커밍아웃의 장단점을 각각 고려해 볼수 있도록 도와줄 수도 있습니다. 도움을 찾거나, 다른 사람들의 반응에 준비하는 것이나, 커밍아웃 과정에서 안전을 유지하는 방법 등을 다루는 영역들도 있습니다.
 
-If you love it, great! If you decide you don’t love it, that’s also ok! It’s not hard to cut your hair again, or go back to wearing the clothes you wore before. No decision you make needs to be permanent. There are no rules about how girly or boyish anyone needs to be, regardless of what their body looks like, or what others might think they are supposed to do or look like.
+트랜스젠더로서 커밍아웃을 하거나 할 때에, 한 번에 다 해버릴 필요는 없습니다. 누구에게, 언제, 어떻게 커밍아웃을 하냐에 따라 다를 수 있고, 느리고 차근히 단계별로 밟아가는 과정일 수도 있습니다. 어떻게 하기로 결정했든, 혼자가 아니라는 사실을 알아주세요. 저희는 항상 도와드리고자 준비돼 있습니다.
 
-Are there potential safety considerations that come with expressing your gender differently in public places, like school? Are there LGBTQ+- affirming student groups who can offer you support? These are just two questions you might want to consider before coming out.
 
-As for your parents, have you mentioned these ideas to them before? Are you worried at all that changing your hair or clothes might create an unsafe situation with them? Or, do you think that they might find the change surprising? If you want a resource that will help you weigh the pros and cons of coming out to your parents, or at school, we have a guide for coming out. Above all, it’s up to you and your comfort level — no one can make you come out if you are not ready. If you want some help, you can always talk to us at The Trevor Project.
+#### 질문 3: _최근들어 소녀가 되고 싶은 욕구가 들어요. 커밍아웃할 준비가 안 됐다는 것을 알지만 머리를 길러보고 소녀 타입의 옷을 입어볼 예정이에요. 제 부모님이 어떻게 생각할지는 잘 모르겠지만, 소녀가 되고 싶다는 생각을 떨쳐버릴수가 없어요. 계속 그렇게 해도 되는 걸까요?_
+답변: 당신의 젠더를 새로운 방법으로 표현하기 안전하고 편안하다고 느낀다면 그건 여러분의 선택입니다. 어쨌든 당신이 당신을 가장 잘 아니까요! 머리를 기르는 것이나 더 여성스러운 옷을 입는 것처럼 조금씩 천천히 시도해보는 것이 여러분 자신의 젠더 정체성에 대해 더 알아가는데 도움이 될 수도 있습니다.
 
+시도한 변화가 좋다면 좋습니다! 만약 그렇지 않다면 그래도 괜찮습니다! 머리카락을 다시 자르거나 전에 입었던 옷으로 돌아가는게 어렵진 않으니까요. 어떤 결정도 영구적일 필요는 없습니다. 몸의 모습이나 다른 사람들이 어떻게 해야하고 생겨야 하는지 생각하는 것과 상관없이, 얼마나 소녀스럽거나 소년스러워야 하는지에 대한 규칙은 없습니다.
 
+학교와 같은 공공장소에서 젠더를 다르게 표현했을 때 따라오는 잠재적인 안전 고려사항이 있나요? 도움을 받을 수 있는 LGBTQ+- 획일화 학생 그룹이 있나요? 커밍아웃 전에 스스로에게 물어볼만한 단 두개의 질문입니다.
 
-## Additional Resources for Understanding Gender Identity
+부모님에게는 이런 생각들에 대해 이야기를 꺼낸 적이 있나요? 머리 스타일이나 옷차림을 바꾸는 것이 부모님과의 관계에서 안전하지 않은 상황을 초래할까봐 걱정되시나요? 아니면 부모님이 이런 변화를 보고 놀랄꺼라고 생각하시나요? 부모님께나 학교에서 커밍아웃할 때의 장단점을 고려하는 데 도움이 되는 자료를 원한다면, 저희가 작성해둔 커밍아웃 가이드가 있습니다. 무엇보다도, 당신과 당신의 편안한 정도에 달려있으며, 당신이 준비되지 않았다면 누구도 당신에게 커밍아웃을 하도록 강요할 수 없습니다. 도움이 필요하다면, 언제나 The Trevor Project에서 저희와 이야기할 수도 있습니다.
 
-### Gender Identity
+
+## 젠더 정체성에 대해 이해하는데 확인해볼수 있는 추가 자료
+
+### 젠더 정체성
 - [Diversity of Youth Gender Identity](https://www.thetrevorproject.org/research-briefs/diversity-of-youth-gender-identity/)
 - [Genderqueer Identities](http://genderqueerid.com/)
 - [Gender Spectrum](https://www.genderspectrum.org/)
@@ -143,13 +148,13 @@ As for your parents, have you mentioned these ideas to them before? Are you worr
 - [Students and Gender Identity Guide for Schools (USC Rossier’s, online MSC program)](https://rossieronline.usc.edu/students-and-gender-identity/)
 
 
-### Intersexuality
+### 간성
 - [Inter/Act: A youth group for young people with intersex conditions or DSD](https://inter-actyouth.tumblr.com/)
 - [OII Intersex Network](http://oiiinternational.com/)
 - [American Psychological Association: What does intersex mean?](https://dictionary.apa.org/intersex)
 
 
-### Transgender
+### 트랜스젠더
 - [Trans Student Educational Resources](https://transstudent.tumblr.com/)
 - [Advocates for Youth: I Think I Might Be Transgender](https://www.advocatesforyouth.org/resources/health-information/i-think-i-might-be-transgender/)
 - [Trans Youth Family Allies](http://www.imatyfa.org/)
@@ -157,6 +162,8 @@ As for your parents, have you mentioned these ideas to them before? Are you worr
 - [TransWhat? A Guide Towards Allyship](https://transwhat.org/confused/)
 - [Resources for Transgender College Students](https://www.accreditedschoolsonline.org/resources/transgender-student-support/)
 
-**The Trevor Project is the leading suicide prevention organization for lesbian, gay, bisexual, transgender, queer, and questioning (LGBTQ) young people.**
 
-We provide 24/7 crisis services for LGBTQ young people via a phone lifeline, text, and chat. We also operate innovative research, advocacy, public training, and peer support programs.
+
+**The Trevor Project는 “레즈비언, 게이, 양성애자, 트랜스젠더, 퀴어 및 질문 중인 (LGBTQ+)” 청소년 자살 예방 선도 단체입니다.**
+
+저희는 자살 예방 전화, 문자, 채팅을 통해 24시간 내내 LGBTQ+ 청소년들을 위한 위기 지원 서비스를 제공합니다. 혁신적인 연구, 옹호, 공공 교육 및 동료 지원 프로그램도 운영하고 있습니다.
