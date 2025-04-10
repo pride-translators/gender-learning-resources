@@ -12,3 +12,7 @@
 
 ## [The Trevor Project](https://www.thetrevorproject.org/)
 - [젠더 정체성 이해하기](./the_trevor_project/understanding_gender_identities.md)
+
+
+## [Variety](https://variety.com/)
+- [그래미 시상 동안 레이디 가가는 '트랜스젠더인들은 투명인간이 아니다'라고 말한다: '트랜스젠더인들은 사랑받을 자격이 있다.'](./variety/lady_gaga_says_trans_people_are_not_invisible_during_grammy_win.md)
