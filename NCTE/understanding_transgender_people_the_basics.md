@@ -3,39 +3,39 @@ title: "트랜스젠더 이해하기: 기초"
 excerpt: ""
 ---
 
-# 트랜스젠더 이해하기: 기초
+# 트랜스젠더들 이해하기: 기초
 > 원문을 읽고 싶으신가요? [여기](https://transequality.org/issues/resources/understanding-transgender-people-the-basics)를 확인해보세요.
 
-See other materials like this at our About Transgender People resource hub!
+지금 보는 문서와 비슷한 다른 자료들을 저희의 ["트랜스젠더에 대해" 자료 허브](http://www.transequality.org/about-transgender)에서 확인해보세요!
 
-"I'm a transgender woman. That means my birth certificate said 'male,' but I always knew I was a girl. I was so relieved when I told my mom about how I felt – and instead of being mad, she was supportive." - Grace
+"저는 트랜스여성입니다. 제 출생증명서가 '남성'이라고 표시했다는 뜻입니다. 하지만 저는 항상 제가 여자였다는 것을 알고 있었습니다. 어머니에게 제가 어떻게 느끼는지 말했을 때 정말 안심이 됐습니다. 화내는 대신 그녀는 지지하여 주었습니다." - 그레이스
 
-"Though my birth certificate said female, I have always felt like a boy. I kept it inside for many years, spending countless sleepless nights being terrified of what my family and friends would think and worrying about being rejected at school. I finally transitioned to the man I am today when I was 20 years old. Though I have faced discrimination by many people since then, I have also received invaluable support. That is what keeps me going." - Alex
+"제 출생증명서가 여성이라고 표시했지만, 저는 항상 남자처럼 느껴졌었습니다. 아주 많은 밤을 제 가족과 친구들이 어떻게 생각할지 무서워하며 지내고, 학교에서 거부당할까봐 걱정하면서, 정말 오랜 기간동안 숨겨왔습니다. 저는 20살에 마침내 오늘날 제가 살아가고 있는 남성으로 전환했습니다. 그 날부터 많은 사람들로부터 차별을 겪어왔지만, 소중한 지지를 받아오기도 했습니다. 저는 그 힘 덕분에 살아갑니다." - 알렉스
 
-Understanding what it is like to be transgender can be hard, especially if you have never met a transgender person.
+트랜스젠더인 것이 어떤 것인지 이해하기란 어려울 수 있습니다. 트랜스젠더를 만나본 적이 없다면 더욱 그렇습니다.
 
-Transgender is a broad term that can be used to describe people whose gender identity is different from the gender they were thought to be when they were born. “Trans” is often used as shorthand for transgender.
+트랜스젠더<sup>(transgender)</sup>는 젠더 정체성이 출생 시 생각되었던 것과는 다른 사람들을 설명할 때 사용될 수 있는 포괄적인 용어입니다. 영어로 "Trans"가 트랜스젠더의 줄임말로 자주 사용됩니다.
 
-To treat a transgender person with respect, you treat them according to their gender identity, not their sex at birth. So, someone who lives as a woman today is called a transgender woman and should be referred to as “she” and “her.” A transgender man lives as a man today and should be referred to as “he” and “him.”
+트랜스젠더를 존중으로 대하려면, 그들의 젠더에 따라 그들을 대하면 됩니다. 출생 시 지정된 성별이 아니라요. 그래서, 오늘날 여성으로 살아가는 사람들은 트랜스젠더 여성으로 불리고 "she"와 "her" 영어 대명사를 통해 불려져야 합니다. 트랜스젠더 남성은 오늘날 남성으로 살아가고 "he"와 "him" 대명사로 불려져야 합니다.
 
-(Note: NCTE uses both the adjectives “male” and “female” and the nouns “man” and “woman” to refer to a person’s gender identity.)
+(참고: NCTE는 영어 형용사 "male"과 "female", 그리고 "man"과 "woman"를 젠더 정체성의 관점에서 사용합니다.)
 
-Gender identity is your internal knowledge of your gender – for example, your knowledge that you’re a man, a woman, or another gender. Gender expression is how a person presents their gender on the outside.That might include behavior, clothing, hairstyle, voice or body characteristics. Everyone has a gender identity, including cisgender – or non-transgender – people. If someone’s gender identity matches the gender they were assigned at birth, then they are cisgender, or “cis" for short.
+젠더 정체성<sup>(gender identity)</sup>은 내면에서 인지하는 자신의 젠더입니다. 예를 들어, 자신이 남성, 여성, 혹은 다른 젠더라는 인지입니다. 젠더 표현은 누군가가 바깥으로 젠더를 나타내는 방식입니다. 이는 행동이나 옷차림, 머리스타일, 목소리, 신체적 특성을 포함합니다. 모두가 젠더 정체성을 가지고 있습니다. 시스젠더나 트랜스젠더가 아닌 사람들도 마찬가지입니다. 누군가의 젠더 정체성이 그들이 태어난 젠더와 일치하다면, 그 사람은 시스젠더<sup>(cisgender)</sup>입니다. 영어 "cis"를 줄임말로 사용할 수도 있습니다.
 
-Sex is often used in a medical or scientific contexts. Sex is a label — male or female — that you’re assigned by a doctor at birth based on the appearance of the genitals you’re born with. It doesn’t define who you are, or what your gender identity might turn out to be.
+성별<sup>(sex)</sup>은 의학적 혹은 과학적 맥락에서 자주 사용됩니다. 성별은 남성과 여성으로, 가지고 태어난 생식기의 외형에 따라 의사에 의해 지정된 꼬리표입니다. 성별이 자신이 누구인지를, 혹은 자신의 젠더 정체성이 어떻게 나타날지 정의하지는 않습니다.
 
-When a person begins to live according to their gender identity, rather than the gender they were thought to be when they were born, this time period is called gender transition. Deciding to transition can take a lot of reflection. Many transgender people risk social stigma, discrimination, and harassment when they tell other people who they really are. Despite those risks, being open about one’s gender identity can be life-affirming and even life-saving.
+누군가가 태어날 때 생각된 젠더가 아니라 자신의 젠더 정체성에 따라 살기 시작할 때, 이 기간을 젠더 전환<sup>(gender transition)</sup>이라고 부릅니다. 전환하기로 결정하는 것에는 많은 자아 성찰이 필요할 수 있습니다. 많은 트랜스젠더들이 자신이 실제로 누구인지 다른 사람들에게 말할 때 사회적 낙인, 차별, 괴롭힘을 감수합니다. 이러한 위험에도 불구하고, 자신의 젠더 정체성에 대해 공개하는 것이 긍정적인 느낌을 가지게 하고 생명을 구할 수도 있습니다.
 
-Possible steps in a gender transition may or may not include changing your clothing, appearance, name, or the pronoun people use to refer to you (like “she,” “he,” or “they”). If they can, some people change their identification documents, like their driver’s license or passport, to better reflect their gender. And some people undergo hormone therapy or other medical procedures to change their physical characteristics and make their body match the gender they know themselves to be. All transgender people are entitled to the same dignity and respect, regardless of whether or not they have been able to take any legal or medical steps.
+젠더 전환의 가능성 있는 단계로 옷차림, 외형, 이름을 바꾸는 것. 혹은 사람들이 자신을 부를 때 사용하는 대명사 ("she"나 "he", "they)를 바꾸는 것이 있을 수도 있고 없을 수도 있습니다. 가능하다면, 어떤 사람들은 자신의 젠더를 더 잘 반영하기 위해 신원 확인 문서들을 바꾸기도 합니다. 운전명허증이나 여권처럼요. 어떤 사람들은 호르몬 치료나 다른 의학적 절차를 거쳐 자신의 신체적 특징을 바꾸고, 자신의 신체가 자신이 스스로 알고 있는 젠더와 일치하게 하기도 합니다. 모든 트랜스젠더들이 동일한 존엄성과 존중을 받을 자격이 있습니다. 법적이거나 의학적인 단계를 거칠 수 있는지 없는지와 관계 없이요.
 
-Some transgender people identify as neither a man nor a woman, or as a combination of male and female, and may use terms like nonbinary or genderqueer to describe their gender identity. Those who are nonbinary often prefer to be referred to as “they” and “them.”
+어떤 트랜스젠더들은 남자나 여자 그 어떤 것으로도 정체화(identify)하지 않습니다. 남성과 여성의 결합으로 정체화하고 논바이너리(nonbinary)나 젠더퀴어(genderqueer)와 같은 용어를 사용하여 자신의 젠더 정체성을 설명할 수도 있습니다. 이러한 논바이너리들은 종종 "they"와 "them"으로 불리길 선호합니다.
 
-It is important to use respectful terminology, and treat transgender people as you would treat any other person. This includes using the name the person has asked you to call them (not their old name) as well as the pronouns they want you to use. If you aren’t sure what pronouns a person uses, just ask politely.
+존중하는 용어를 사용하고 트랜스젠더들을 다른 사람들과 마찬가지로 대하는 것이 중요합니다. 이는 트랜스젠더들이 자신들에게 불러달라고 한 이름과 대명사를 사용하는 것을 포함합니다. 누군가가 어떤 대명사를 사용하는지 확실하지 않다면, 조심히 물어봐주세요.
 
-Visit our About Transgender People resource hub for more information! Some suggestions:
+**저희의 ["트랜스젠더에 대해" 자료 허브](http://www.transequality.org/about-transgender)에서 더 많은 정보를 확인해보세요!**
 
-For more information about transgender people generally, see Frequently Asked Questions about Transgender People.
+전반적으로 트랜스젠더에 대한 정보를 더 확인하려면, [트랜스젠더에 대해 자주 질문되는 내용들](http://www.transequality.org/issues/resources/understanding-transgender-people-faq)를 확인해보세요.
 
-For more information about non-binary people, see Understanding Non-Binary People.
+논바이너리에 대한 정보를 더 확인하려면, [논바이너리들 이해하기](http://www.transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive)를 확인해보세요.
 
-For more information about how to be supportive of the transgender people in your life, see Supporting the Transgender People in Your Life.
+삶에서 보게 되는 트랜스젠더들을 어떻게 지지해줄지에 대한 정보를 더 확인하려면, [삶에서 보게 되는 트랜스젠더들 지지해주기](http://www.transequality.org/issues/resources/supporting-the-transgender-people-in-your-life-a-guide-to-being-a-good-ally)를 확인해보세요.
