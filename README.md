@@ -4,7 +4,7 @@
 ## [National Center for Transgender Equality](https://transequality.org/)
 - [트랜스젠더에 대해 자주 질문되는 내용들](./NCTE/frequently_asked_questions_about_transgender_people.md)
 - [논바이너리들 이해하기: 존중하고 지지해주는 방법](./NCTE/understanding_nonbinary_people_how_to_be_respectful_and_supportive.md)
-- [트랜스젠더 이해하기: 기초](./NCTE/understanding_transgender_people_the_basics.md)
+- [트랜스젠더들 이해하기: 기초](./NCTE/understanding_transgender_people_the_basics.md)
 
 
 ## [American Psychological Association](https://www.apa.org/)
