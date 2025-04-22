@@ -31,7 +31,7 @@ excerpt: "젠더 정체성은 이해하기 쉬운 주제는 아닙니다. 때로
 
 ## 목차
 - [젠더와 성별의 차이가 뭔가요?](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#genderandmore)
-- [트랜스포비아<sup>(트랜스젠더공포증, transphobia)</sup> 이해하기](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#understandingtransphobia)
+- [트랜스포비아 이해하기](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#understandingtransphobia)
 - [간성 정체성](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#intersexidentities)
 - [자주 질문되는 내용들](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#frequentlyaskedquestions)
 - [자료](https://www.thetrevorproject.org/resources/article/understanding-gender-identities/#resources)
@@ -80,7 +80,7 @@ excerpt: "젠더 정체성은 이해하기 쉬운 주제는 아닙니다. 때로
 
 
 
-## 트랜스포비아<sup>(트랜스젠더공포증, transphobia)</sup> 이해하기
+## 트랜스포비아 이해하기
 **트랜스젠더들**은 자신의 정체성만으로 **혐오**나 **두려움**에 직면하는 경우가 많습니다. 심지어 일부 시스젠더이면서 LGBT인 사람들조차도 트랜스포빅한 감정을 가질 수 있는데, 이런 감정을 가지다 보면 **평등**과 **수용**을 위해 싸우면서도 [트랜스젠더들을 지지](https://www.thetrevorproject.org/resources/guide/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/)하기 어려워지게 됩니다.
 
 트랜스포빅한 혐오 범죄의 피해자라고 느낀다면 [트랜스젠더 법적 방어 및 교육 기금](https://www.transgenderlegal.org/)<sup>(Transgender Legal Defense & Education Fund)</sup>과 상담해 보시길 바랍니다.
@@ -142,26 +142,26 @@ excerpt: "젠더 정체성은 이해하기 쉬운 주제는 아닙니다. 때로
 ## 젠더 정체성에 대해 이해하는데 확인해 볼 수 있는 추가 자료
 
 ### 젠더 정체성
-- [Diversity of Youth Gender Identity](https://www.thetrevorproject.org/research-briefs/diversity-of-youth-gender-identity/)
-- [Genderqueer Identities](http://genderqueerid.com/)
-- [Gender Spectrum](https://www.genderspectrum.org/)
-- [The Gender Book](http://www.thegenderbook.com/)
-- [Students and Gender Identity Guide for Schools (USC Rossier’s, online MSC program)](https://rossieronline.usc.edu/students-and-gender-identity/)
+- [청소년 젠더 정체성의 다양성](https://www.thetrevorproject.org/research-briefs/diversity-of-youth-gender-identity/)
+- [젠더퀴어 정체성들](http://genderqueerid.com/)
+- [젠더 스펙트럼](https://www.genderspectrum.org/)
+- [젠더책](http://www.thegenderbook.com/)
+- [학교 운영을 위한 학생과 젠더 정체성 가이드 (USC Rossier’s, online MSC program)](https://rossieronline.usc.edu/students-and-gender-identity/)
 
 
 ### 간성
-- [Inter/Act: A youth group for young people with intersex conditions or DSD](https://inter-actyouth.tumblr.com/)
-- [OII Intersex Network](http://oiiinternational.com/)
-- [American Psychological Association: What does intersex mean?](https://dictionary.apa.org/intersex)
+- [Inter/Act: 간성 상태거나 성발달이상인 청소년들을 위한 청소년 그룹](https://inter-actyouth.tumblr.com/)
+- [OII 간성 네트워크](http://oiiinternational.com/)
+- [미국심리학회: 간성이 무슨 의미인가요?](https://dictionary.apa.org/intersex)
 
 
 ### 트랜스젠더
-- [Trans Student Educational Resources](https://transstudent.tumblr.com/)
-- [Advocates for Youth: I Think I Might Be Transgender](https://www.advocatesforyouth.org/resources/health-information/i-think-i-might-be-transgender/)
-- [Trans Youth Family Allies](http://www.imatyfa.org/)
-- [WPATH (World Professional Association for Transgender Health)](http://www.wpath.org/)
-- [TransWhat? A Guide Towards Allyship](https://transwhat.org/confused/)
-- [Resources for Transgender College Students](https://www.accreditedschoolsonline.org/resources/transgender-student-support/)
+- [트랜스젠더 학생 교육 자료](https://transstudent.tumblr.com/)
+- [청소년 옹호 단체: 제가 트랜스젠더일수도 있는 것 같아요](https://www.advocatesforyouth.org/resources/health-information/i-think-i-might-be-transgender/)
+- [트랜스젠더 청소년 가족 앨라이](http://www.imatyfa.org/)
+- [WPATH (세계 트랜스젠더 건강 전문 협회)](http://www.wpath.org/)
+- [트랜스 뭐라구요? 앨라이십을 향한 가이드](https://transwhat.org/confused/)
+- [트랜스젠더 대학 학생들을 위한 자료](https://www.accreditedschoolsonline.org/resources/transgender-student-support/)
 
 
 
