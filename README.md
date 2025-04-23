@@ -17,3 +17,7 @@
 
 ## [Variety](https://variety.com/)
 - [그래미 시상 동안 레이디 가가는 '트랜스젠더인들은 투명인간이 아니다'라고 말한다: '트랜스젠더인들은 사랑받을 자격이 있다.'](./variety/lady_gaga_says_trans_people_are_not_invisible_during_grammy_win.md)
+
+
+## [Science Daily](https://www.sciencedaily.com)
+- [(미완료) Transgender brains are more like their desired gender from an early age](./science_daily/transgender_brains_are_more_like_their_desired_gender_from_an_early_age.md)
