@@ -20,4 +20,4 @@
 
 
 ## [Science Daily](https://www.sciencedaily.com)
-- [(미완료) Transgender brains are more like their desired gender from an early age](./science_daily/transgender_brains_are_more_like_their_desired_gender_from_an_early_age.md)
+- [트랜스젠더의 뇌는 어린 시기부터 갈망하는 젠더의 뇌와 더 유사하다](./science_daily/transgender_brains_are_more_like_their_desired_gender_from_an_early_age.md)

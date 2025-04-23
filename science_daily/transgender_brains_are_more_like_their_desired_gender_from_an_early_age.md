@@ -1,47 +1,47 @@
 ---
-title: "트랜스젠더에 대해 자주 질문되는 내용들"
-excerpt: "트랜스젠더들은 미국과 전 세계의 모든 지역, 모든 인종과 민족적 배경, 그리고 모든 신앙 공동체에 존재합니다. 트랜스젠더들은 당신의 학급 친구, 직장 동료, 이웃, 친한 친구입니다. 미국에는 약 140만 명의 트랜스젠더 성인이 있으며, 전 세계에는 수백만 명이 더 있습니다. 당신이 알지 못하더라도, 트랜스젠더를 이미 만났을 가능성이 큽니다."
+title: "트랜스젠더의 뇌는 어린 시기부터 갈망하는 젠더의 뇌와 더 유사하다"
+excerpt: "새로운 연구에 따르면 트랜스젠더 청소년의 뇌 활동과 구조는 그들이 갈망하는 젠더의 일반적인 활성 패턴과 더 가깝게 유사하다고 한다. 이 발견은 뇌 기능의 차이들이 발달 초기에 발생할 수 있고, 뇌의 이미지가 청소년들의 트랜스젠더리즘을 이른 시기에 식별해낼수 있는 유용한 도구가 될 수도 있다고 시사한다."
 ---
 
 
-# Transgender brains are more like their desired gender from an early age
+# 트랜스젠더의 뇌는 어린 시기부터 갈망하는 젠더의 뇌와 더 유사하다
 > 원문을 읽고 싶으신가요? [여기](https://www.sciencedaily.com/releases/2018/05/180524112351.htm)를 확인해보세요.
 
-**Date:** May 24, 2018
+**날짜:** 2018년 5월 24일
 
-**Source:** European Society of Endocrinology
+**출처:** 유럽 내분비학회<sup>(European Society of Endocrinology)</sup>
 
-**Summary:** Brain activity and structure in transgender adolescents more closely resembles the typical activation patterns of their desired gender, according to new research. The findings suggest that differences in brain function may occur early in development and that brain imaging may be a useful tool for earlier identification of transgenderism in young people.
+**요약본:** 새로운 연구에 따르면 트랜스젠더 청소년의 뇌 활동과 구조는 그들이 갈망하는 젠더의 일반적인 활성 패턴과 더 가깝게 유사하다고 한다. 이 발견은 뇌 기능의 차이들이 발달 초기에 발생할 수 있고, 뇌의 이미지가 청소년들의 트랜스젠더리즘을 이른 시기에 식별해낼수 있는 유용한 도구가 될 수도 있다고 시사한다.
 
 
 
-## Full Story
-Brain activity and structure in transgender adolescents more closely resembles the typical activation patterns of their desired gender, according to findings to be presented in Barcelona, at the European Society of Endocrinology annual meeting, ECE 2018. These findings suggest that differences in brain function may occur early in development and that brain imaging may be a useful tool for earlier identification of transgenderism in young people.
+## 전체 스토리
+바르셀로나에 있는 유럽 내분비학회<sup>(European Society of Endocrinology)</sup>에서 발표된 발견에 따르면 트랜스젠더 청소년의 뇌 활동과 구조는 그들이 갈망하는 일반적인 활성 패턴과 더 가깝게 유사하다고 한다. 이 발견들은 뇌 기능의 차이들이 발달 초기에 발생할 수 있고 뇌의 이미지가 청소년들의 트랜스젠더리즘을 이른 시기에 식별해낼수 있는 유용한 도구가 될 수도 있다고 시사한다.
 
-Transgenderism is the experience, or identification with, a gender different to the assigned biological sex, whilst gender dysphoria (GD) is the distress experienced by transgender people, and may be present from a very young age.
+트랜스젠더리즘<sup>(transgenderism)</sup>은 지정된 생물학적 성별과 다른 젠더를 경험, 혹은 정체화하는 것이다. 젠더 불쾌감<sup>(gender dysphoria)</sup>은 트랜스젠더들에 의해 경험되는 불편감이고 매우 어린 나이부터 나타날 수 있다.
 
-Although GD incidence is rare, gender identity is an essential part of psychological health, and if unaddressed can lead to serious psychological issues. 
+젠더 불쾌감이 나타날 확률은 매우 낮지만, 젠더 정체성은 심리적 건강의 핵심적인 부분이고 다뤄지지 않는다면 심각한 심리적 문제들로 이어질 수 있다.
 
-Current strategies for addressing GD in younger people involve psychotherapy, or delaying puberty with hormones, so that decisions on transgender therapy can be made at an older age. 
+어린 사람들의 젠더 불쾌감을 다루는 현재의 전략들은 심리 요법, 트랜스젠더 치료에 대한 결정이 더 나중에 이루어질수 있도록 호르몬에 관련된 사춘기를 늦추는 것이 있다.
 
-Genetics and hormones contribute to sex differences in brain development and function that lead to more male- or female-typical characteristics; however, these processes are not well established. 
+유전학과 호르몬은 남성 혹은 여성에 일반적인 특징으로 이어지는 뇌 발달과 기능에 있어서의 성적 차이에 기여한다. 하지만 이러한 과정들은 명확히 밝혀지지 않았다.
 
-Furthermore, little is known on how early in life, or to what extent, the gender-typical characteristics of transgender people become established. 
+게다가, 얼마나 이른 시기에, 혹은 어떤 정도로 트랜스젠더들의 젠더에 일반적인 특징이 확립되는지는 거의 알려져있지 않다.
 
-Earlier diagnosis or better understanding of transgenderism could help to improve quality of life for young transgender people, and help families to make more informed decisions on treatment.
+조기 진단이나 트랜스젠더리즘에 대한 더 나은 이해는 청소년 트랜스젠더들의 삶의 질 향상에 도움이 될수 있으며, 가족들이 치료와 관련하여 더 제공된 정보에 기반한 결정<sup>(informed decision)</sup>을 할수 있도록 도와준다.
 
-In this study, Dr. Julie Bakker from the University of Liège, Belgium, and her colleagues from the Center of Expertise on Gender Dysphoria at the VU University Medical Center, the Netherlands, examined sex differences in the brain activation patterns of young transgender people. 
+이 연구에서, 벨기에에 있는 리에주대학에서 일하는 줄리 베커 박사와, 네덜란드 VU 대학 의료 센터의 젠더 불쾌감 전문 센터에서 일하는 그녀의 동료들은 청소년 트랜스젠더들의 뇌 활동 패턴에서의 성적 차이를 조사하였다.
 
-The study included both adolescent boys and girls with gender dysphoria and used magnetic resonance imaging (MRI) scans to assess brain activation patterns in response to a pheromone known to produce gender-specific activity. 
+이 연구는 젠더 불쾌감을 겪는 청소년 소년들과 소녀들을 포함시켰고, 자기공명영상(MRI) 스캔을 이용하여 젠더에 특정되는 활동을 유발하는 것으로 알려진 페로몬에 반응하는 뇌 활성 패턴을 평가하였다.
 
-The pattern of brain activation in both transgender adolescent boys and girls more closely resembled that of non-transgender boys and girls of their desired gender. 
+트랜스젠더 청소년 소년과 소녀 두 그룹에서의 뇌 활성 패턴은 트랜스젠더가 아닌 소년과 소녀의 갈망하는 젠더의 뇌 활성 패턴과 더 가까이 유사하였다.
 
-In addition, GD adolescent girls showed a male-typical brain activation pattern during a visual/spatial memory exercise. 
+게다가 젠더 불쾌감을 겪는 청소년 소녀들은 시각적/공간적 기억 훈련에서 남성에 일반적인 뇌 활성 패턴을 보였다.
 
-Finally, some brain structural changes were detected that were also more similar, but not identical, to those typical of the desired gender of GD boys and girls.
+마침내, 젠더 불쾌감을 겪는 소년과 소녀들의 갈망하는 젠더에 더 비슷하지만 동일하지는 않는 뇌 구조의 변화가 감지되기도 하였다.
 
-Dr Bakker says, "Although more research is needed, we now have evidence that sexual differentiation of the brain differs in young people with GD, as they show functional brain characteristics that are typical of their desired gender."
+베커 박사가가 말한다. "더 많은 연구가 진행되어야 하긴 하지만, 우리는 이제 갈망하는 젠더에 일반적인 기능적 뇌 특성을 보이기 때문에 뇌의 성적 분화가 젠더 불쾌감을 겪고 있는 청소년들 사이에서 다르게 이루어지는 증거를 가지고 있습니다."
 
-Dr Bakker's research will now investigate the role of hormones during puberty on brain development and transgender differences, to help guide and improve future diagnosis and therapy for GD adolescents.
+베커 박사의 연구는 뇌 개발에 대한 사춘기 시기동안의 호르몬의 역할과 트랜스젠더 차이<sup>(transgender differences)</sup>에 대해 연구할 것이며, 이를 통해 젠더 불쾌감을 겪는 청소년들의 향후 진단과 치료를 효과적으로 가이드하고 개선하는데 도움을 줄 것으로 기대된다.
 
-Dr Bakker comments, "We will then be better equipped to support these young people, instead of just sending them to a psychiatrist and hoping that their distress will disappear spontaneously."
+베커 박사가 말한다. "그렇다면 그저 정신과 의사에게 보내고 불편감이 사라지길 바라는 것보다 이런 청소년들을 지원해 줄 수 있도록 갖추는 것이 더 좋을 것입니다."
